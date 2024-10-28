@@ -1,0 +1,85 @@
+
+  @media (min-width: 992px) {
+    .card {
+      max-width: 600px; /* Kortin leveys isommille näytöille */
+    }
+  
+    .card-header h1 {
+      font-size: 2.5rem;
+    }
+  
+    p {
+      font-size: 1.2rem;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .card {
+      max-width: 700px; /* Suurempi leveys erittäin suurille näytöille */
+    }
+  
+    .card-header h2 {
+      font-size: 3rem; /* Suurempi otsikkokoko */
+    }
+  
+    p {
+      font-size: 1.4rem;
+    }
+  }
+  .form-control {
+    white-space: normal;  /* Varmistaa, että teksti rivityy */
+    word-wrap: break-word; /* Tekee rivinvaihdon pitkille sanoille */
+  }
+
+  .card_custom-title{
+    font-size: 24px;
+    text-align: center; /* Keskittää tekstin */
+    font-weight: bold;
+    white-space: nowrap; /* Estää rivinvaihdon */
+
+  }
+  
+  .card_studing_state{
+    font-size: 15px;
+    margin-top: 10px;
+    text-align: center; /* Keskittää tekstin */
+
+  }
+
+  .card_info{
+    font-size: 20px;
+    text-align: center; /* Keskittää tekstin */
+
+  }
+
+  .custom-navbar{
+    background-color: black;
+  }
+
+ 
+
+  .custom-footer{
+    background-color: black;
+    color: white;
+
+  }
+
+  .white-text a {
+    color: white;
+}
+
+.white-text .navbar-brand:hover {
+    color: white;
+    background-color: gray; /* Muuttaa taustavärin tummanharmaaksi hover-tilassa */
+
+}
+
+.custom-nav-link {      
+    color: white;
+    text-decoration: none;
+}
+
+.custom-nav-link:hover {
+    background-color: gray; /* Muuttaa taustavärin tummanharmaaksi hover-tilassa */
+    text-decoration: underline; /* Lisää alleviivauksen hover-tilassa */
+}

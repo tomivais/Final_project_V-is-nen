@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "tomppa.vaisanen02@gmail.com",
+      "Firstname": "Tomi",
+      "Lastname": "Väisänen",
+      "Password": "1234"
+    },
+    {
+      "id": "tomivais@student.uef.fi",
+      "Firstname": "Tomi",
+      "Lastname": "Väisänen",
+      "Password": "1234"
+    },
+    {
+      "id": "nea@gmail.com",
+      "Firstname": "Nea",
+      "Lastname": "Väisänen",
+      "Password": "1234"
+    }
+  ]
+}
