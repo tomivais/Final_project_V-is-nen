@@ -34,7 +34,8 @@ const Register = () => {
 
     const handlesubmit = async (e) => {
         e.preventDefault();
-        let regobj = { id: Email, Firstname, Lastname, Password };
+        let lowerCaseEmail  = Email.toLowerCase();
+        let regobj = { id: lowerCaseEmail , Firstname, Lastname, Password };
 
         try {
             const response = await fetch(`http://localhost:3001/users?id=${Email}`);
@@ -49,6 +50,8 @@ const Register = () => {
             toast.error('Virhe tarkistuksessa: ' + error.message);
             return;
         }
+        
+       
 
         if (IsValidate()) {
             fetch("http://localhost:3001/users", {
@@ -57,12 +60,12 @@ const Register = () => {
                 body: JSON.stringify(regobj)
             })
                 .then((res) => {
-                    if (res.ok) {
+                    if (res.ok) {   
                         toast.success('Registered successfully, please waith and try login.');
                         // Lisätään viive ennen uudelleenohjausta
                         setTimeout(() => {
                             navigate('/login');
-                        }, 4000); // Viive (3 sekuntia)
+                        }, 4000); // Viive 
                     } else {
                         toast.error('Failed: ' + res.statusText);
                     }

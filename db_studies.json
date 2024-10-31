@@ -1,1731 +1,1319 @@
 {
   "studies": [
     {
-      "id": "session-6dcde0a0-5280-43d8-a841-ac5bf3af9b06",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "27.09.2023 klo 08.00",
-      "endtime": "27.09.2023 klo 15.00"
-    },
-    {
-      "id": "session-d0a3d2d0-f665-4394-af69-1dcf8cf4e0e5",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "28.09.2023 klo 10.00",
-      "endtime": "28.09.2023 klo 19.00"
-    },
-    {
-      "id": "session-dc3e4233-37ed-4bc3-a39c-727815b7eade",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "29.09.2023 klo 16.00",
-      "endtime": "29.09.2023 klo 20.00"
-    },
-    {
-      "id": "session-32e45d4d-07fe-48be-9ebe-582b8c06a4b1",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "02.10.2023 klo 14.00",
-      "endtime": "02.10.2023 klo 20.00"
-    },
-    {
-      "id": "session-e52a7f25-4e11-46be-9f4f-a8c6b0c42ca2",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "03.10.2023 klo 16.00",
-      "endtime": "03.10.2023 klo 20.00"
-    },
-    {
-      "id": "session-6a0d9374-bfc2-4099-9521-0ed714176e9c",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "04.10.2023 klo 09.00",
-      "endtime": "04.10.2023 klo 18.00"
-    },
-    {
-      "id": "session-25591e0b-674c-4516-9542-bf750f74125c",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "05.10.2023 klo 08.00",
-      "endtime": "05.10.2023 klo 13.00"
-    },
-    {
-      "id": "session-7347e54c-7c9f-4fb9-88da-841cd1be776a",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "06.10.2023 klo 10.00",
-      "endtime": "06.10.2023 klo 15.00"
-    },
-    {
-      "id": "session-0e4c2fc5-dbff-43b1-9d3e-e75b44e00706",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "09.10.2023 klo 09.00",
-      "endtime": "09.10.2023 klo 16.00"
-    },
-    {
-      "id": "session-0bcbf7c1-32c7-4953-90f1-ec68c18c9538",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "10.10.2023 klo 07.00",
-      "endtime": "10.10.2023 klo 12.00"
-    },
-    {
-      "id": "session-000b2313-b5a3-4991-98ee-b5148edb43a2",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "11.10.2023 klo 14.00",
-      "endtime": "11.10.2023 klo 18.00"
-    },
-    {
-      "id": "session-5b6cfb67-3929-4d42-8918-3df08b3aa4f2",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "12.10.2023 klo 07.00",
-      "endtime": "12.10.2023 klo 13.00"
-    },
-    {
-      "id": "session-47f2c6a2-2567-49e4-babe-09b6264bfbc9",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "13.10.2023 klo 08.00",
-      "endtime": "13.10.2023 klo 14.00"
-    },
-    {
-      "id": "session-3da3fa32-bb75-491a-9475-f7224a5abfb2",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "16.10.2023 klo 10.00",
-      "endtime": "16.10.2023 klo 15.00"
-    },
-    {
-      "id": "session-a13f28a9-b9dc-4eaa-8b68-dd66b0740c55",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "17.10.2023 klo 11.00",
-      "endtime": "17.10.2023 klo 18.00"
-    },
-    {
-      "id": "session-f68c3c30-40b4-4313-9341-46d3ac15d53a",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "18.10.2023 klo 08.00",
-      "endtime": "18.10.2023 klo 15.00"
-    },
-    {
-      "id": "session-1dfb42b6-c861-4156-8a3c-f4f51b0be467",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "19.10.2023 klo 11.00",
-      "endtime": "19.10.2023 klo 15.00"
-    },
-    {
-      "id": "session-1abfe3c8-a3d9-4882-8895-31d5a0f7e5a8",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "20.10.2023 klo 12.00",
-      "endtime": "20.10.2023 klo 17.00"
-    },
-    {
-      "id": "session-bc27b1bd-ccb4-4226-81dc-583f3c592215",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "23.10.2023 klo 13.00",
-      "endtime": "23.10.2023 klo 19.00"
-    },
-    {
-      "id": "session-5f93b635-8785-4015-8ee9-062ab938147d",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "24.10.2023 klo 12.00",
-      "endtime": "24.10.2023 klo 18.00"
-    },
-    {
-      "id": "session-fc492f8d-d0e8-4646-afab-48fe6f56065c",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "25.10.2023 klo 14.00",
-      "endtime": "25.10.2023 klo 18.00"
-    },
-    {
-      "id": "session-f481aeca-41aa-4448-b9e8-bc6d62e861d8",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "26.10.2023 klo 11.00",
-      "endtime": "26.10.2023 klo 17.00"
-    },
-    {
-      "id": "session-afd43dd5-c920-41e4-b35e-bbc3f80b4d12",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "27.10.2023 klo 12.00",
-      "endtime": "27.10.2023 klo 20.00"
-    },
-    {
-      "id": "session-f0a8b59b-4f40-4166-8319-2a320d3c39a3",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "30.10.2023 klo 12.00",
-      "endtime": "30.10.2023 klo 20.00"
-    },
-    {
-      "id": "session-d079cafd-6a7e-48a6-acc5-0e860750f76e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "31.10.2023 klo 16.00",
-      "endtime": "31.10.2023 klo 20.00"
-    },
-    {
-      "id": "session-bb351c2b-24fe-4e2c-bf5f-47f6f39e96ec",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "01.11.2023 klo 13.00",
-      "endtime": "01.11.2023 klo 19.00"
-    },
-    {
-      "id": "session-2c4d0a66-a4f5-4294-8020-fd41c2f06d0b",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "02.11.2023 klo 14.00",
-      "endtime": "02.11.2023 klo 19.00"
-    },
-    {
-      "id": "session-3e98cbfe-e3b7-4a88-86f7-97bcd39457c9",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "03.11.2023 klo 13.00",
-      "endtime": "03.11.2023 klo 17.00"
-    },
-    {
-      "id": "session-066d63cb-6d8e-498e-9c0a-63e4da7a14af",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "06.11.2023 klo 14.00",
-      "endtime": "06.11.2023 klo 20.00"
-    },
-    {
-      "id": "session-d06d6926-bd74-40b5-a3ad-18d1049cb3b8",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "07.11.2023 klo 12.00",
-      "endtime": "07.11.2023 klo 17.00"
-    },
-    {
-      "id": "session-cfba46a1-0dfa-416c-be49-37853f24dec2",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "08.11.2023 klo 09.00",
-      "endtime": "08.11.2023 klo 16.00"
-    },
-    {
-      "id": "session-eb86d52d-9a5f-430d-8d40-4309d896cfdb",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "09.11.2023 klo 12.00",
-      "endtime": "09.11.2023 klo 16.00"
-    },
-    {
-      "id": "session-29148ba1-c470-4d4f-abc5-8d5b706b4549",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "10.11.2023 klo 14.00",
-      "endtime": "10.11.2023 klo 19.00"
-    },
-    {
-      "id": "session-cd96b9be-4840-4cf2-ae88-a0b01397d772",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "13.11.2023 klo 14.00",
-      "endtime": "13.11.2023 klo 19.00"
-    },
-    {
-      "id": "session-d1c29534-6b40-4fb7-ad96-9a64922bfbd9",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "14.11.2023 klo 10.00",
-      "endtime": "14.11.2023 klo 16.00"
-    },
-    {
-      "id": "session-052bb59b-12ea-42a9-a53c-259dbdad6b79",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "15.11.2023 klo 10.00",
-      "endtime": "15.11.2023 klo 17.00"
-    },
-    {
-      "id": "session-af41a8ac-6413-4ebd-bac0-1e5f8bd99ccd",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "16.11.2023 klo 08.00",
-      "endtime": "16.11.2023 klo 18.00"
-    },
-    {
-      "id": "session-fbc15aea-6895-47fd-8d3d-72dcedb72f19",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "17.11.2023 klo 07.00",
-      "endtime": "17.11.2023 klo 16.00"
-    },
-    {
-      "id": "session-9cb123b8-6b1a-40ce-ba29-53626b801004",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "20.11.2023 klo 10.00",
-      "endtime": "20.11.2023 klo 17.00"
-    },
-    {
-      "id": "session-efabe8d7-8e90-401d-9957-0aaafc568e73",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "21.11.2023 klo 10.00",
-      "endtime": "21.11.2023 klo 14.00"
-    },
-    {
-      "id": "session-803690b2-7338-4e1c-a82d-d68509e5c7a8",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "22.11.2023 klo 14.00",
-      "endtime": "22.11.2023 klo 18.00"
-    },
-    {
-      "id": "session-15fba6ec-6480-45be-839f-e27f79e14d7f",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "23.11.2023 klo 12.00",
-      "endtime": "23.11.2023 klo 16.00"
-    },
-    {
-      "id": "session-23cc1966-99cf-4f2d-bec1-286e0f06d011",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "24.11.2023 klo 12.00",
-      "endtime": "24.11.2023 klo 18.00"
-    },
-    {
-      "id": "session-71eaba01-6881-4349-a5c1-6b51bdab5fac",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "27.11.2023 klo 12.00",
-      "endtime": "27.11.2023 klo 19.00"
-    },
-    {
-      "id": "session-cfa24da0-917f-4fd6-bad5-362ff72bdb2e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "28.11.2023 klo 10.00",
-      "endtime": "28.11.2023 klo 18.00"
-    },
-    {
-      "id": "session-73d3f81a-54da-4d93-8375-470a96ba62d9",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "29.11.2023 klo 11.00",
-      "endtime": "29.11.2023 klo 20.00"
-    },
-    {
-      "id": "session-7e9dd139-af98-4132-aa54-352713ea1f27",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "30.11.2023 klo 15.00",
-      "endtime": "30.11.2023 klo 19.00"
-    },
-    {
-      "id": "session-0c9d3374-99d2-4eb9-be86-ee8ee7feba63",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "01.12.2023 klo 13.00",
-      "endtime": "01.12.2023 klo 18.00"
-    },
-    {
-      "id": "session-ea7ae2e7-e537-4a46-afd0-7328439c5bed",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "04.12.2023 klo 07.00",
-      "endtime": "04.12.2023 klo 17.00"
-    },
-    {
-      "id": "session-383ac3fd-9e91-4d18-8ef9-eab9d88f1101",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "05.12.2023 klo 11.00",
-      "endtime": "05.12.2023 klo 16.00"
-    },
-    {
-      "id": "session-2e28eaee-8f0c-4bc0-bd3b-6fdcf87e067f",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "06.12.2023 klo 13.00",
-      "endtime": "06.12.2023 klo 20.00"
-    },
-    {
-      "id": "session-030d0504-2a19-4f35-aa95-ceeb253d2821",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "07.12.2023 klo 09.00",
-      "endtime": "07.12.2023 klo 16.00"
-    },
-    {
-      "id": "session-0721d9fb-971f-456f-bd02-08bc13d70c4f",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "08.12.2023 klo 09.00",
-      "endtime": "08.12.2023 klo 17.00"
-    },
-    {
-      "id": "session-ea460b01-1fae-4f90-833f-f84d44252081",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "11.12.2023 klo 16.00",
-      "endtime": "11.12.2023 klo 20.00"
-    },
-    {
-      "id": "session-a9391eda-e671-4e9f-a46b-6377a2ea3fc3",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "12.12.2023 klo 08.00",
-      "endtime": "12.12.2023 klo 15.00"
-    },
-    {
-      "id": "session-6b2039e3-83b8-4049-bf07-a3d2d550bb5c",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "13.12.2023 klo 12.00",
-      "endtime": "13.12.2023 klo 19.00"
-    },
-    {
-      "id": "session-63ccd5ff-c104-4982-9641-2f8c2c9569eb",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "14.12.2023 klo 16.00",
-      "endtime": "14.12.2023 klo 20.00"
-    },
-    {
-      "id": "session-53a9d37a-0299-4a61-9747-27b753ee6c9c",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "15.12.2023 klo 09.00",
-      "endtime": "15.12.2023 klo 19.00"
-    },
-    {
-      "id": "session-1c2943d4-8346-4385-9f49-d08fa4cabb18",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "18.12.2023 klo 12.00",
-      "endtime": "18.12.2023 klo 16.00"
-    },
-    {
-      "id": "session-7b25faf2-cde1-4e22-a903-199faa7deb70",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "19.12.2023 klo 11.00",
-      "endtime": "19.12.2023 klo 16.00"
-    },
-    {
-      "id": "session-1e0d776c-df55-45f0-9cc8-4fb154c5eeab",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "20.12.2023 klo 14.00",
-      "endtime": "20.12.2023 klo 20.00"
-    },
-    {
-      "id": "session-78219ed0-4e8e-41e8-8ca0-6733da3ded28",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "21.12.2023 klo 08.00",
-      "endtime": "21.12.2023 klo 14.00"
-    },
-    {
-      "id": "session-e983e7a1-d0da-436a-99a7-1a37749dbb3a",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "22.12.2023 klo 16.00",
-      "endtime": "22.12.2023 klo 20.00"
-    },
-    {
-      "id": "session-e3fe2161-4662-402c-838a-b2cdb1829610",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "25.12.2023 klo 13.00",
-      "endtime": "25.12.2023 klo 19.00"
-    },
-    {
-      "id": "session-83f6632c-3072-4893-97d5-72260106246b",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "26.12.2023 klo 09.00",
-      "endtime": "26.12.2023 klo 14.00"
-    },
-    {
-      "id": "session-19ad6c74-c972-4dbb-93c4-27c20d2a7f8e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "27.12.2023 klo 15.00",
-      "endtime": "27.12.2023 klo 20.00"
-    },
-    {
-      "id": "session-93e44cc7-8ddf-4048-942a-3d686670b2a1",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "28.12.2023 klo 16.00",
-      "endtime": "28.12.2023 klo 20.00"
-    },
-    {
-      "id": "session-5160359d-7320-41af-9dbf-93fdc17c567b",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "29.12.2023 klo 16.00",
-      "endtime": "29.12.2023 klo 20.00"
-    },
-    {
-      "id": "session-6b310bab-332c-45e3-a0ff-9d745bce9c94",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "01.01.2024 klo 07.00",
+      "id": "session-c1691e46-ac56-4633-8c49-4c61630c76b5",
+      "userId": "example@gmail.com",
+      "starttime": "01.01.2024 klo 09.00",
       "endtime": "01.01.2024 klo 14.00"
     },
     {
-      "id": "session-8837c3cf-0991-4eb4-bab4-ff5d9fe9ffc8",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "02.01.2024 klo 14.00",
-      "endtime": "02.01.2024 klo 19.00"
+      "id": "session-55af4f56-e2ea-4125-b4c7-e7c725d6e295",
+      "userId": "example@gmail.com",
+      "starttime": "02.01.2024 klo 07.00",
+      "endtime": "02.01.2024 klo 12.00"
     },
     {
-      "id": "session-783c578c-ca95-4a40-9ca5-ee00ec04b777",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "03.01.2024 klo 09.00",
-      "endtime": "03.01.2024 klo 14.00"
+      "id": "session-ca569f51-7a65-4a18-96ef-2d9bbc89bb8b",
+      "userId": "example@gmail.com",
+      "starttime": "03.01.2024 klo 13.00",
+      "endtime": "03.01.2024 klo 18.00"
     },
     {
-      "id": "session-e14712cb-e632-4d59-b29d-0831af59c8be",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "04.01.2024 klo 15.00",
-      "endtime": "04.01.2024 klo 20.00"
+      "id": "session-7a50940d-d722-4e46-867b-95f63694d4a4",
+      "userId": "example@gmail.com",
+      "starttime": "04.01.2024 klo 21.00",
+      "endtime": "04.01.2024 klo 22.00"
     },
     {
-      "id": "session-86c9fcee-2f73-48dc-bdab-25f78974b223",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "05.01.2024 klo 13.00",
-      "endtime": "05.01.2024 klo 20.00"
+      "id": "session-1b082791-ad16-490a-a491-1933e1519723",
+      "userId": "example@gmail.com",
+      "starttime": "05.01.2024 klo 07.00",
+      "endtime": "05.01.2024 klo 09.00"
     },
     {
-      "id": "session-391e1c12-4d1e-40af-9261-9f64fef83736",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "08.01.2024 klo 16.00",
-      "endtime": "08.01.2024 klo 20.00"
+      "id": "session-3489b1f4-d7ca-4074-90dd-01e6a9b99ee6",
+      "userId": "example@gmail.com",
+      "starttime": "08.01.2024 klo 15.00",
+      "endtime": "08.01.2024 klo 18.00"
     },
     {
-      "id": "session-35c55662-2730-4604-89cf-55bc0b442149",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "09.01.2024 klo 08.00",
-      "endtime": "09.01.2024 klo 12.00"
+      "id": "session-2ab84948-073c-43b8-beae-fc4bdda7451f",
+      "userId": "example@gmail.com",
+      "starttime": "09.01.2024 klo 15.00",
+      "endtime": "09.01.2024 klo 19.00"
     },
     {
-      "id": "session-87197bca-71ae-41ad-8ab4-a4845614d077",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "10.01.2024 klo 12.00",
-      "endtime": "10.01.2024 klo 19.00"
+      "id": "session-5fa7f0ad-637b-420d-b77f-927ace0e1c5b",
+      "userId": "example@gmail.com",
+      "starttime": "10.01.2024 klo 11.00",
+      "endtime": "10.01.2024 klo 15.00"
     },
     {
-      "id": "session-acef8354-9bf4-47b7-b531-22e44fa30f11",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "11.01.2024 klo 10.00",
-      "endtime": "11.01.2024 klo 16.00"
+      "id": "session-01ff7618-e0d7-4d42-afc0-e86268f05488",
+      "userId": "example@gmail.com",
+      "starttime": "11.01.2024 klo 15.00",
+      "endtime": "11.01.2024 klo 21.00"
     },
     {
-      "id": "session-2357bbf2-7289-4c12-b1e2-4641f08440d8",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "12.01.2024 klo 07.00",
-      "endtime": "12.01.2024 klo 13.00"
+      "id": "session-f2d752bb-3289-47f1-8c86-87e1afd9ab18",
+      "userId": "example@gmail.com",
+      "starttime": "12.01.2024 klo 12.00",
+      "endtime": "12.01.2024 klo 17.00"
     },
     {
-      "id": "session-33531c27-fb5e-4b3e-a4ee-4de090030c86",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "15.01.2024 klo 09.00",
-      "endtime": "15.01.2024 klo 15.00"
+      "id": "session-13acdd31-44aa-4cc6-a457-ec4e544d76a5",
+      "userId": "example@gmail.com",
+      "starttime": "15.01.2024 klo 07.00",
+      "endtime": "15.01.2024 klo 22.00"
     },
     {
-      "id": "session-b868052e-b43b-4be8-8c79-f8512b226bcc",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "16.01.2024 klo 11.00",
-      "endtime": "16.01.2024 klo 20.00"
+      "id": "session-7c02941b-802e-4221-8354-7e8523dde02a",
+      "userId": "example@gmail.com",
+      "starttime": "16.01.2024 klo 12.00",
+      "endtime": "16.01.2024 klo 15.00"
     },
     {
-      "id": "session-64b9e803-3446-432b-9c4d-bc16810fc16a",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "17.01.2024 klo 14.00",
-      "endtime": "17.01.2024 klo 20.00"
+      "id": "session-874daabb-0606-4844-a2e2-040458eafcd4",
+      "userId": "example@gmail.com",
+      "starttime": "17.01.2024 klo 15.00",
+      "endtime": "17.01.2024 klo 17.00"
     },
     {
-      "id": "session-d0d601a1-e0a5-4b96-903a-6944a68a0841",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "18.01.2024 klo 08.00",
+      "id": "session-617af569-8e2d-4ece-ac3a-cc35bcae059a",
+      "userId": "example@gmail.com",
+      "starttime": "18.01.2024 klo 11.00",
       "endtime": "18.01.2024 klo 15.00"
     },
     {
-      "id": "session-c1b17c75-b227-4e54-b4e1-093b2cea5601",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "19.01.2024 klo 14.00",
-      "endtime": "19.01.2024 klo 19.00"
+      "id": "session-301fc1ba-20a7-49f3-8da6-6b5fdf18f350",
+      "userId": "example@gmail.com",
+      "starttime": "19.01.2024 klo 13.00",
+      "endtime": "19.01.2024 klo 15.00"
     },
     {
-      "id": "session-c34037c5-8786-4657-bdeb-7e667bddd166",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "22.01.2024 klo 09.00",
-      "endtime": "22.01.2024 klo 18.00"
+      "id": "session-9d80d81d-b310-4df4-abaa-56dfe1dc1c3f",
+      "userId": "example@gmail.com",
+      "starttime": "22.01.2024 klo 18.00",
+      "endtime": "22.01.2024 klo 20.00"
     },
     {
-      "id": "session-211c4b7e-427a-41db-b2a6-3c6376790d4d",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "23.01.2024 klo 12.00",
-      "endtime": "23.01.2024 klo 16.00"
+      "id": "session-93a2823f-a72d-4682-af56-cdfb89ee609e",
+      "userId": "example@gmail.com",
+      "starttime": "23.01.2024 klo 09.00",
+      "endtime": "23.01.2024 klo 10.00"
     },
     {
-      "id": "session-1d4d1123-5641-487c-998d-8d953578af64",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "24.01.2024 klo 15.00",
-      "endtime": "24.01.2024 klo 20.00"
+      "id": "session-23b833c5-03de-43c3-a6d0-c2997399f77e",
+      "userId": "example@gmail.com",
+      "starttime": "24.01.2024 klo 21.00",
+      "endtime": "24.01.2024 klo 22.00"
     },
     {
-      "id": "session-5a3bcbe9-b681-442a-b592-ccc83ce753c8",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "25.01.2024 klo 12.00",
+      "id": "session-7a608833-8dc5-4878-af05-352de4eff8d0",
+      "userId": "example@gmail.com",
+      "starttime": "25.01.2024 klo 10.00",
       "endtime": "25.01.2024 klo 20.00"
     },
     {
-      "id": "session-9d432ade-0f2f-4737-8a0e-3584652c46fc",
-      "userId": "tomivais@student.uef.fi",
+      "id": "session-3643cde7-fe00-4ad3-82e7-a8d696dd4c4b",
+      "userId": "example@gmail.com",
       "starttime": "26.01.2024 klo 15.00",
-      "endtime": "26.01.2024 klo 20.00"
+      "endtime": "26.01.2024 klo 18.00"
     },
     {
-      "id": "session-840c1512-ab5a-478f-8aa2-61692db1011a",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "29.01.2024 klo 12.00",
+      "id": "session-8c1f94fe-f7b4-48f2-a575-56f413c070a8",
+      "userId": "example@gmail.com",
+      "starttime": "29.01.2024 klo 14.00",
       "endtime": "29.01.2024 klo 20.00"
     },
     {
-      "id": "session-25cc33ef-2b7e-4cce-88f0-3a40c1dfe2b4",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "30.01.2024 klo 08.00",
-      "endtime": "30.01.2024 klo 12.00"
+      "id": "session-6ae907a3-7a4d-4dea-871c-595a7d14bdcf",
+      "userId": "example@gmail.com",
+      "starttime": "30.01.2024 klo 21.00",
+      "endtime": "30.01.2024 klo 22.00"
     },
     {
-      "id": "session-f9563596-a156-4777-8cbd-28b9fd358bfb",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "31.01.2024 klo 07.00",
-      "endtime": "31.01.2024 klo 11.00"
+      "id": "session-a460c2c9-2458-4de1-8250-d0789bab6833",
+      "userId": "example@gmail.com",
+      "starttime": "31.01.2024 klo 17.00",
+      "endtime": "31.01.2024 klo 19.00"
     },
     {
-      "id": "session-c69e0c07-138a-4ba8-8f3f-fb5e03fb134e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "01.02.2024 klo 13.00",
-      "endtime": "01.02.2024 klo 18.00"
+      "id": "session-de15521a-c021-46f6-8a6e-c9512da5fc68",
+      "userId": "example@gmail.com",
+      "starttime": "01.02.2024 klo 10.00",
+      "endtime": "01.02.2024 klo 21.00"
     },
     {
-      "id": "session-f752886d-c4c8-4c0a-8842-e3b49d138a28",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "02.02.2024 klo 14.00",
-      "endtime": "02.02.2024 klo 19.00"
+      "id": "session-40623a44-ab05-4c97-8eca-e5ef3e3a3155",
+      "userId": "example@gmail.com",
+      "starttime": "02.02.2024 klo 15.00",
+      "endtime": "02.02.2024 klo 22.00"
     },
     {
-      "id": "session-329fd2f6-b603-4d90-aa90-6257303f3b13",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "05.02.2024 klo 11.00",
-      "endtime": "05.02.2024 klo 19.00"
+      "id": "session-e985895b-1218-4286-8c82-a441e333060e",
+      "userId": "example@gmail.com",
+      "starttime": "05.02.2024 klo 08.00",
+      "endtime": "05.02.2024 klo 14.00"
     },
     {
-      "id": "session-4b741a9f-9a8e-41cb-930b-038fb4b8de7e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "06.02.2024 klo 12.00",
-      "endtime": "06.02.2024 klo 20.00"
+      "id": "session-2d83da0c-a24a-4bb3-a524-32e944633501",
+      "userId": "example@gmail.com",
+      "starttime": "06.02.2024 klo 07.00",
+      "endtime": "06.02.2024 klo 10.00"
     },
     {
-      "id": "session-9c1a559d-1556-49dd-bae9-06d53ec949fe",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "07.02.2024 klo 13.00",
-      "endtime": "07.02.2024 klo 17.00"
+      "id": "session-02f05e33-6e1d-462a-a5ad-4f422d887d26",
+      "userId": "example@gmail.com",
+      "starttime": "07.02.2024 klo 18.00",
+      "endtime": "07.02.2024 klo 20.00"
     },
     {
-      "id": "session-290c64ea-f4ce-420f-95dc-b97aafebaf67",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "08.02.2024 klo 07.00",
-      "endtime": "08.02.2024 klo 12.00"
+      "id": "session-8c6ace8b-9edc-4b62-9f33-46bc35045920",
+      "userId": "example@gmail.com",
+      "starttime": "08.02.2024 klo 16.00",
+      "endtime": "08.02.2024 klo 17.00"
     },
     {
-      "id": "session-5495891c-40f3-4b1e-9cb9-17a0a3233ccc",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "09.02.2024 klo 08.00",
-      "endtime": "09.02.2024 klo 14.00"
+      "id": "session-15183573-c148-47ec-be86-86b8070e35d4",
+      "userId": "example@gmail.com",
+      "starttime": "09.02.2024 klo 19.00",
+      "endtime": "09.02.2024 klo 20.00"
     },
     {
-      "id": "session-c5982150-403f-4826-b2a1-53b302661e2d",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "12.02.2024 klo 10.00",
+      "id": "session-b599b561-c6a7-438d-bbff-c1278be0218c",
+      "userId": "example@gmail.com",
+      "starttime": "12.02.2024 klo 16.00",
       "endtime": "12.02.2024 klo 18.00"
     },
     {
-      "id": "session-6cd79029-09f0-4809-89a3-f0daac6469b4",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "13.02.2024 klo 09.00",
-      "endtime": "13.02.2024 klo 19.00"
+      "id": "session-ae612cae-4d88-492f-b3ff-a43b218737ab",
+      "userId": "example@gmail.com",
+      "starttime": "13.02.2024 klo 19.00",
+      "endtime": "13.02.2024 klo 21.00"
     },
     {
-      "id": "session-3ba1cba4-fb55-478e-8afa-94eebf1ce20b",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "14.02.2024 klo 14.00",
-      "endtime": "14.02.2024 klo 18.00"
+      "id": "session-82268f17-25a6-4dc3-84d1-0594c7355372",
+      "userId": "example@gmail.com",
+      "starttime": "14.02.2024 klo 19.00",
+      "endtime": "14.02.2024 klo 21.00"
     },
     {
-      "id": "session-8db086ba-d857-4ef5-9aa8-9df8052125b3",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "15.02.2024 klo 16.00",
-      "endtime": "15.02.2024 klo 20.00"
+      "id": "session-9d77cae5-d319-4245-b9c8-78f3961e032d",
+      "userId": "example@gmail.com",
+      "starttime": "15.02.2024 klo 15.00",
+      "endtime": "15.02.2024 klo 21.00"
     },
     {
-      "id": "session-f976ad64-f317-46b6-8bb4-3751bf7ceeca",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "16.02.2024 klo 12.00",
-      "endtime": "16.02.2024 klo 18.00"
+      "id": "session-7a196d0d-f5b5-4b13-a42a-90cf2bbe3c57",
+      "userId": "example@gmail.com",
+      "starttime": "16.02.2024 klo 07.00",
+      "endtime": "16.02.2024 klo 12.00"
     },
     {
-      "id": "session-e440288f-526c-480e-9f70-bed0a8f00905",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "19.02.2024 klo 14.00",
+      "id": "session-a716be89-5c3f-4254-825e-b4633f08d7da",
+      "userId": "example@gmail.com",
+      "starttime": "19.02.2024 klo 11.00",
       "endtime": "19.02.2024 klo 20.00"
     },
     {
-      "id": "session-9c17094e-b1e2-4280-8d98-9a96ffabf31e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "20.02.2024 klo 16.00",
-      "endtime": "20.02.2024 klo 20.00"
+      "id": "session-8daa3c4a-661e-4ca1-8e51-d01e3633835f",
+      "userId": "example@gmail.com",
+      "starttime": "20.02.2024 klo 14.00",
+      "endtime": "20.02.2024 klo 15.00"
     },
     {
-      "id": "session-99471be3-7018-4462-be28-558aef8a699e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "21.02.2024 klo 08.00",
-      "endtime": "21.02.2024 klo 17.00"
+      "id": "session-d6238ec3-655b-446c-90e8-1b29ba019d76",
+      "userId": "example@gmail.com",
+      "starttime": "21.02.2024 klo 21.00",
+      "endtime": "21.02.2024 klo 22.00"
     },
     {
-      "id": "session-8da99169-97e5-4072-9f36-d9765995723d",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "22.02.2024 klo 07.00",
-      "endtime": "22.02.2024 klo 12.00"
+      "id": "session-a7441e1b-42b8-4be0-bd6e-854fcc1f1761",
+      "userId": "example@gmail.com",
+      "starttime": "22.02.2024 klo 11.00",
+      "endtime": "22.02.2024 klo 18.00"
     },
     {
-      "id": "session-e9617a31-f1bd-4049-abf9-f7b6285a7cee",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "23.02.2024 klo 14.00",
-      "endtime": "23.02.2024 klo 18.00"
+      "id": "session-5c677d50-3d5a-47fe-a4fe-74412571879d",
+      "userId": "example@gmail.com",
+      "starttime": "23.02.2024 klo 07.00",
+      "endtime": "23.02.2024 klo 15.00"
     },
     {
-      "id": "session-1ea50966-0edb-4fdd-8b0f-ead698b2ed23",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "26.02.2024 klo 13.00",
-      "endtime": "26.02.2024 klo 17.00"
+      "id": "session-da3b4af0-8624-49a8-bb23-b3d50716c9ef",
+      "userId": "example@gmail.com",
+      "starttime": "26.02.2024 klo 14.00",
+      "endtime": "26.02.2024 klo 19.00"
     },
     {
-      "id": "session-27492199-7523-4239-8222-9713e1536810",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "27.02.2024 klo 13.00",
-      "endtime": "27.02.2024 klo 17.00"
+      "id": "session-ba8d5ea2-dd80-428b-a8bf-516a1243ebfa",
+      "userId": "example@gmail.com",
+      "starttime": "27.02.2024 klo 08.00",
+      "endtime": "27.02.2024 klo 22.00"
     },
     {
-      "id": "session-c5874f47-b536-4aa4-9c82-b796822f13aa",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "28.02.2024 klo 11.00",
-      "endtime": "28.02.2024 klo 17.00"
+      "id": "session-4008f2d2-f90a-4001-961f-43da94814cef",
+      "userId": "example@gmail.com",
+      "starttime": "28.02.2024 klo 20.00",
+      "endtime": "28.02.2024 klo 22.00"
     },
     {
-      "id": "session-10d5972c-5f1f-4b6c-a8f5-a1a156d99b1b",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "29.02.2024 klo 11.00",
-      "endtime": "29.02.2024 klo 20.00"
+      "id": "session-ab182e57-6548-41c9-a60e-d42b96c9bcaf",
+      "userId": "example@gmail.com",
+      "starttime": "29.02.2024 klo 10.00",
+      "endtime": "29.02.2024 klo 14.00"
     },
     {
-      "id": "session-b423a494-55c8-4de8-bdb8-fb830d774d74",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "01.03.2024 klo 11.00",
-      "endtime": "01.03.2024 klo 17.00"
+      "id": "session-841abf46-3a5a-4352-8cc5-fbd2846f39ed",
+      "userId": "example@gmail.com",
+      "starttime": "01.03.2024 klo 12.00",
+      "endtime": "01.03.2024 klo 19.00"
     },
     {
-      "id": "session-15268c5c-e0d2-447b-8523-66660b8ae542",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "04.03.2024 klo 14.00",
-      "endtime": "04.03.2024 klo 19.00"
+      "id": "session-e5a821fc-45a4-4640-91ef-823fa5fcd2bc",
+      "userId": "example@gmail.com",
+      "starttime": "04.03.2024 klo 18.00",
+      "endtime": "04.03.2024 klo 21.00"
     },
     {
-      "id": "session-fb3c116f-52c0-4458-93d9-34aadc4825a4",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "05.03.2024 klo 14.00",
-      "endtime": "05.03.2024 klo 20.00"
+      "id": "session-baacb2be-e76e-4670-91e5-40f2d7cb5db9",
+      "userId": "example@gmail.com",
+      "starttime": "05.03.2024 klo 16.00",
+      "endtime": "05.03.2024 klo 18.00"
     },
     {
-      "id": "session-27503eb0-c308-48ec-a285-e195a4063ffd",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "06.03.2024 klo 16.00",
-      "endtime": "06.03.2024 klo 20.00"
+      "id": "session-600d76dd-36b6-4414-9d94-f5c3dedf96d6",
+      "userId": "example@gmail.com",
+      "starttime": "06.03.2024 klo 10.00",
+      "endtime": "06.03.2024 klo 18.00"
     },
     {
-      "id": "session-ab36b5a5-39d0-45bb-b63e-5adb0357c8da",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "07.03.2024 klo 12.00",
-      "endtime": "07.03.2024 klo 17.00"
+      "id": "session-1b64593f-bccb-4367-9288-e6c530e70972",
+      "userId": "example@gmail.com",
+      "starttime": "07.03.2024 klo 20.00",
+      "endtime": "07.03.2024 klo 21.00"
     },
     {
-      "id": "session-911c8b73-8a0d-437d-a2a9-c361c4792aa6",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "08.03.2024 klo 12.00",
-      "endtime": "08.03.2024 klo 19.00"
+      "id": "session-5b11ed77-3311-4cf8-ae85-b5effe43a90b",
+      "userId": "example@gmail.com",
+      "starttime": "08.03.2024 klo 14.00",
+      "endtime": "08.03.2024 klo 21.00"
     },
     {
-      "id": "session-4d9ee5b9-8f35-42e5-beb1-039e54b42d5d",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "11.03.2024 klo 15.00",
+      "id": "session-02904d33-707c-4821-a9f1-e84ae2d44cf3",
+      "userId": "example@gmail.com",
+      "starttime": "11.03.2024 klo 18.00",
       "endtime": "11.03.2024 klo 19.00"
     },
     {
-      "id": "session-819de84f-7058-4447-867a-4090d638d060",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "12.03.2024 klo 15.00",
-      "endtime": "12.03.2024 klo 19.00"
+      "id": "session-7979cde0-336c-4ff3-9308-4a3cad1d5063",
+      "userId": "example@gmail.com",
+      "starttime": "12.03.2024 klo 16.00",
+      "endtime": "12.03.2024 klo 17.00"
     },
     {
-      "id": "session-e7bca54a-bfee-408b-90ee-0898e57322e7",
-      "userId": "tomivais@student.uef.fi",
+      "id": "session-6c49685b-780d-4deb-ae93-d09ef7115476",
+      "userId": "example@gmail.com",
       "starttime": "13.03.2024 klo 10.00",
-      "endtime": "13.03.2024 klo 20.00"
+      "endtime": "13.03.2024 klo 16.00"
     },
     {
-      "id": "session-340b014a-f616-4195-a15c-9d002593b307",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "14.03.2024 klo 09.00",
-      "endtime": "14.03.2024 klo 13.00"
+      "id": "session-7a0b2390-402e-4ac0-9ab1-f4840928f651",
+      "userId": "example@gmail.com",
+      "starttime": "14.03.2024 klo 07.00",
+      "endtime": "14.03.2024 klo 21.00"
     },
     {
-      "id": "session-0771aa76-e8b8-4750-8e8c-9a28ae5291da",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "15.03.2024 klo 07.00",
-      "endtime": "15.03.2024 klo 11.00"
+      "id": "session-fad37a81-8f93-4cdf-b752-43a2822bdd43",
+      "userId": "example@gmail.com",
+      "starttime": "15.03.2024 klo 19.00",
+      "endtime": "15.03.2024 klo 20.00"
     },
     {
-      "id": "session-211d8e2a-342c-4611-9bc8-f4a3fd041d64",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "18.03.2024 klo 15.00",
-      "endtime": "18.03.2024 klo 20.00"
+      "id": "session-1c48d681-9dbb-4088-ade1-d5fbb964ed24",
+      "userId": "example@gmail.com",
+      "starttime": "18.03.2024 klo 10.00",
+      "endtime": "18.03.2024 klo 19.00"
     },
     {
-      "id": "session-0fba3ab8-8cde-46b2-9217-e1197166cd02",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "19.03.2024 klo 09.00",
-      "endtime": "19.03.2024 klo 13.00"
+      "id": "session-714a76de-c203-4caf-899b-0852453d0635",
+      "userId": "example@gmail.com",
+      "starttime": "19.03.2024 klo 19.00",
+      "endtime": "19.03.2024 klo 21.00"
     },
     {
-      "id": "session-64586d66-0a13-471f-87cb-dd35d6c63294",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "20.03.2024 klo 09.00",
-      "endtime": "20.03.2024 klo 18.00"
+      "id": "session-1d284274-edac-414e-bef4-c31fc82192e9",
+      "userId": "example@gmail.com",
+      "starttime": "20.03.2024 klo 11.00",
+      "endtime": "20.03.2024 klo 12.00"
     },
     {
-      "id": "session-4861e2a5-e75e-4ee4-884c-136bb0ca0e6d",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "21.03.2024 klo 08.00",
-      "endtime": "21.03.2024 klo 17.00"
+      "id": "session-2424e39f-d8e0-4dbc-8614-a25444c6bfa5",
+      "userId": "example@gmail.com",
+      "starttime": "21.03.2024 klo 09.00",
+      "endtime": "21.03.2024 klo 12.00"
     },
     {
-      "id": "session-eb86791a-30fe-4df2-917f-487a9e191b0e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "22.03.2024 klo 09.00",
-      "endtime": "22.03.2024 klo 18.00"
+      "id": "session-a75c24db-b09a-4420-9447-99056cf90a45",
+      "userId": "example@gmail.com",
+      "starttime": "22.03.2024 klo 14.00",
+      "endtime": "22.03.2024 klo 22.00"
     },
     {
-      "id": "session-cec86084-bf2b-49df-b5ed-e164e2af13b0",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "25.03.2024 klo 13.00",
-      "endtime": "25.03.2024 klo 18.00"
+      "id": "session-6cf7aec0-852b-423d-9f14-6c2aebb5f138",
+      "userId": "example@gmail.com",
+      "starttime": "25.03.2024 klo 08.00",
+      "endtime": "25.03.2024 klo 12.00"
     },
     {
-      "id": "session-2e38fa2d-fc78-4c04-b65a-02361a9360f7",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "26.03.2024 klo 11.00",
-      "endtime": "26.03.2024 klo 19.00"
+      "id": "session-5ff4c48c-70f5-4400-a708-877aa29e1905",
+      "userId": "example@gmail.com",
+      "starttime": "26.03.2024 klo 21.00",
+      "endtime": "26.03.2024 klo 22.00"
     },
     {
-      "id": "session-2f1a72c4-ef55-464b-9cb3-6892f475db67",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "27.03.2024 klo 10.00",
-      "endtime": "27.03.2024 klo 18.00"
+      "id": "session-daaf9cda-9af6-4ee3-ada0-257530d4cefc",
+      "userId": "example@gmail.com",
+      "starttime": "27.03.2024 klo 08.00",
+      "endtime": "27.03.2024 klo 10.00"
     },
     {
-      "id": "session-1c6b3c79-c149-4775-9397-fbb54a4ebbf9",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "28.03.2024 klo 12.00",
+      "id": "session-a4360cdc-e5ce-44e9-92d0-aa1d2e552ba2",
+      "userId": "example@gmail.com",
+      "starttime": "28.03.2024 klo 09.00",
       "endtime": "28.03.2024 klo 19.00"
     },
     {
-      "id": "session-8907e0b1-baa4-450c-89ca-0479fb4c295b",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "29.03.2024 klo 12.00",
-      "endtime": "29.03.2024 klo 16.00"
+      "id": "session-c888379e-27f8-4b55-9f0e-20b40b3e126b",
+      "userId": "example@gmail.com",
+      "starttime": "29.03.2024 klo 20.00",
+      "endtime": "29.03.2024 klo 22.00"
     },
     {
-      "id": "session-5e54095d-3948-4079-81df-2b5cf8d126eb",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "01.04.2024 klo 07.00",
-      "endtime": "01.04.2024 klo 11.00"
+      "id": "session-fe735bc5-33fe-47d5-b50a-75660b37b92e",
+      "userId": "example@gmail.com",
+      "starttime": "01.04.2024 klo 10.00",
+      "endtime": "01.04.2024 klo 22.00"
     },
     {
-      "id": "session-92e46933-987b-4d9f-ace4-bafea12dafea",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "02.04.2024 klo 09.00",
-      "endtime": "02.04.2024 klo 19.00"
+      "id": "session-a312526a-580a-4a14-9efe-473d96fd55d6",
+      "userId": "example@gmail.com",
+      "starttime": "02.04.2024 klo 14.00",
+      "endtime": "02.04.2024 klo 17.00"
     },
     {
-      "id": "session-947be9c4-e6d6-4cd0-89ba-02fef325ebfc",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "03.04.2024 klo 15.00",
-      "endtime": "03.04.2024 klo 20.00"
+      "id": "session-f5091333-7339-4c89-ac5f-bce64bd1e574",
+      "userId": "example@gmail.com",
+      "starttime": "03.04.2024 klo 18.00",
+      "endtime": "03.04.2024 klo 22.00"
     },
     {
-      "id": "session-b0081472-4903-47d3-a6ea-faefc1e0db55",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "04.04.2024 klo 14.00",
-      "endtime": "04.04.2024 klo 20.00"
+      "id": "session-adc5b366-87ec-4fa5-b71e-855e72efef4e",
+      "userId": "example@gmail.com",
+      "starttime": "04.04.2024 klo 21.00",
+      "endtime": "04.04.2024 klo 22.00"
     },
     {
-      "id": "session-10e517ad-3af2-42ed-95e2-fe63328fb572",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "05.04.2024 klo 10.00",
-      "endtime": "05.04.2024 klo 14.00"
+      "id": "session-cf95a1a7-74a6-40c5-82a5-f89387682dcf",
+      "userId": "example@gmail.com",
+      "starttime": "05.04.2024 klo 09.00",
+      "endtime": "05.04.2024 klo 11.00"
     },
     {
-      "id": "session-df3be086-92c8-4dbd-b79e-512b250be63c",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "08.04.2024 klo 08.00",
-      "endtime": "08.04.2024 klo 15.00"
+      "id": "session-15767af7-d06a-4ee0-9c03-2e8e22752acf",
+      "userId": "example@gmail.com",
+      "starttime": "08.04.2024 klo 12.00",
+      "endtime": "08.04.2024 klo 18.00"
     },
     {
-      "id": "session-8be35bce-da85-4608-998c-18779aa74f4f",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "09.04.2024 klo 14.00",
-      "endtime": "09.04.2024 klo 20.00"
+      "id": "session-2f807cb0-a2f1-453c-9b61-b2fa0c7ddba5",
+      "userId": "example@gmail.com",
+      "starttime": "09.04.2024 klo 11.00",
+      "endtime": "09.04.2024 klo 18.00"
     },
     {
-      "id": "session-a3ceddfc-9789-4966-9e08-a70a6c90f8b1",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "10.04.2024 klo 11.00",
-      "endtime": "10.04.2024 klo 19.00"
+      "id": "session-f996ff65-7075-4fa6-b2a4-b6196fe022c9",
+      "userId": "example@gmail.com",
+      "starttime": "10.04.2024 klo 07.00",
+      "endtime": "10.04.2024 klo 14.00"
     },
     {
-      "id": "session-f1bf3de5-9ce4-42c5-aa3c-09fb57b98ad9",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "11.04.2024 klo 14.00",
-      "endtime": "11.04.2024 klo 20.00"
+      "id": "session-d0ea1444-cdf8-4798-865f-fd6ac1b1a401",
+      "userId": "example@gmail.com",
+      "starttime": "11.04.2024 klo 15.00",
+      "endtime": "11.04.2024 klo 16.00"
     },
     {
-      "id": "session-176a3559-412d-40ec-99bf-c267b3ac781e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "12.04.2024 klo 09.00",
-      "endtime": "12.04.2024 klo 15.00"
+      "id": "session-94b4adce-1ae5-4f6b-82ef-4cdf28d3362a",
+      "userId": "example@gmail.com",
+      "starttime": "12.04.2024 klo 11.00",
+      "endtime": "12.04.2024 klo 12.00"
     },
     {
-      "id": "session-30ed7251-584a-4f92-b67f-f47b499f9797",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "15.04.2024 klo 08.00",
-      "endtime": "15.04.2024 klo 16.00"
+      "id": "session-38478162-76d3-484e-b49f-e76037e8df8c",
+      "userId": "example@gmail.com",
+      "starttime": "15.04.2024 klo 17.00",
+      "endtime": "15.04.2024 klo 18.00"
     },
     {
-      "id": "session-c3a3f06d-badd-4487-8664-1ba82b665f98",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "16.04.2024 klo 08.00",
-      "endtime": "16.04.2024 klo 17.00"
+      "id": "session-2c9a7957-c6b8-4d13-85bd-2e8287600133",
+      "userId": "example@gmail.com",
+      "starttime": "16.04.2024 klo 21.00",
+      "endtime": "16.04.2024 klo 22.00"
     },
     {
-      "id": "session-f70c9924-f63a-4bc1-8af5-6ec4f79c0d8f",
-      "userId": "tomivais@student.uef.fi",
+      "id": "session-6d4c1275-b1f0-4c38-b88c-2ff9eb90ffce",
+      "userId": "example@gmail.com",
       "starttime": "17.04.2024 klo 12.00",
-      "endtime": "17.04.2024 klo 19.00"
+      "endtime": "17.04.2024 klo 14.00"
     },
     {
-      "id": "session-39516e4e-fd2e-4691-9168-d1fd8265f93a",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "18.04.2024 klo 11.00",
-      "endtime": "18.04.2024 klo 18.00"
+      "id": "session-84e490c7-c849-43c2-b3fe-cbbf9d721a75",
+      "userId": "example@gmail.com",
+      "starttime": "18.04.2024 klo 18.00",
+      "endtime": "18.04.2024 klo 21.00"
     },
     {
-      "id": "session-96f08953-08b5-488d-9a59-4892b95c57e9",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "19.04.2024 klo 07.00",
-      "endtime": "19.04.2024 klo 12.00"
+      "id": "session-79436742-7ca5-4f8d-98a3-6b3407e55ab6",
+      "userId": "example@gmail.com",
+      "starttime": "19.04.2024 klo 14.00",
+      "endtime": "19.04.2024 klo 16.00"
     },
     {
-      "id": "session-482f2822-4c32-47cd-8c14-639ff4a15257",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "22.04.2024 klo 11.00",
-      "endtime": "22.04.2024 klo 18.00"
+      "id": "session-163f6eab-6ae8-435e-89bc-74d1e3d41975",
+      "userId": "example@gmail.com",
+      "starttime": "22.04.2024 klo 14.00",
+      "endtime": "22.04.2024 klo 20.00"
     },
     {
-      "id": "session-338e245b-271f-44ea-9146-48a898a0a31d",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "23.04.2024 klo 14.00",
-      "endtime": "23.04.2024 klo 18.00"
+      "id": "session-2de918f3-b15e-446c-b1cc-39a36a540f9d",
+      "userId": "example@gmail.com",
+      "starttime": "23.04.2024 klo 19.00",
+      "endtime": "23.04.2024 klo 21.00"
     },
     {
-      "id": "session-4366377f-5b66-4ffa-8db1-c623e62bd613",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "24.04.2024 klo 08.00",
-      "endtime": "24.04.2024 klo 16.00"
+      "id": "session-aabc423c-1bd6-4761-ba7a-2d3d64733b43",
+      "userId": "example@gmail.com",
+      "starttime": "24.04.2024 klo 13.00",
+      "endtime": "24.04.2024 klo 20.00"
     },
     {
-      "id": "session-d40023b0-119a-4dd9-8f1f-f8988f7227f1",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "25.04.2024 klo 15.00",
-      "endtime": "25.04.2024 klo 20.00"
+      "id": "session-7371bad4-22a1-4be6-a163-992278a6ba15",
+      "userId": "example@gmail.com",
+      "starttime": "25.04.2024 klo 12.00",
+      "endtime": "25.04.2024 klo 17.00"
     },
     {
-      "id": "session-73c603e1-48ef-4476-b2eb-833e9e8ee8a7",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "26.04.2024 klo 10.00",
-      "endtime": "26.04.2024 klo 19.00"
+      "id": "session-ced1362a-803d-439e-9047-012749d73e6a",
+      "userId": "example@gmail.com",
+      "starttime": "26.04.2024 klo 13.00",
+      "endtime": "26.04.2024 klo 17.00"
     },
     {
-      "id": "session-b6afb237-5d02-4238-be78-62303c4329fe",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "29.04.2024 klo 07.00",
-      "endtime": "29.04.2024 klo 14.00"
+      "id": "session-331cd096-ffd0-433f-88e6-d39bff3ae71f",
+      "userId": "example@gmail.com",
+      "starttime": "29.04.2024 klo 13.00",
+      "endtime": "29.04.2024 klo 20.00"
     },
     {
-      "id": "session-6b8ffde3-61c3-4887-9ad1-576dda8d3330",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "30.04.2024 klo 08.00",
-      "endtime": "30.04.2024 klo 14.00"
+      "id": "session-aa4fcc90-0a59-4cac-b0bc-b81ebf027fec",
+      "userId": "example@gmail.com",
+      "starttime": "30.04.2024 klo 12.00",
+      "endtime": "30.04.2024 klo 17.00"
     },
     {
-      "id": "session-7d25175b-acfd-46be-8858-17688af0a510",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "01.05.2024 klo 13.00",
-      "endtime": "01.05.2024 klo 19.00"
+      "id": "session-5396ee21-515c-46cf-a463-d737666581c2",
+      "userId": "example@gmail.com",
+      "starttime": "01.05.2024 klo 17.00",
+      "endtime": "01.05.2024 klo 20.00"
     },
     {
-      "id": "session-824ecc41-6715-4b5e-bfe7-27ecf0a8c816",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "02.05.2024 klo 09.00",
-      "endtime": "02.05.2024 klo 14.00"
+      "id": "session-695e0863-8680-4009-9b4f-0367f02f21b4",
+      "userId": "example@gmail.com",
+      "starttime": "02.05.2024 klo 12.00",
+      "endtime": "02.05.2024 klo 16.00"
     },
     {
-      "id": "session-51e6af71-5220-4ba5-bde8-111ab71e65d5",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "03.05.2024 klo 10.00",
-      "endtime": "03.05.2024 klo 15.00"
+      "id": "session-539503f2-1f65-4fb4-8bce-7e7ede5f821a",
+      "userId": "example@gmail.com",
+      "starttime": "03.05.2024 klo 11.00",
+      "endtime": "03.05.2024 klo 18.00"
     },
     {
-      "id": "session-946cdcbb-0bbb-42cd-a267-adfcaecabfd4",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "06.05.2024 klo 11.00",
-      "endtime": "06.05.2024 klo 16.00"
+      "id": "session-305ebdb9-9b05-47aa-9692-cd225412d6ac",
+      "userId": "example@gmail.com",
+      "starttime": "06.05.2024 klo 09.00",
+      "endtime": "06.05.2024 klo 15.00"
     },
     {
-      "id": "session-7cd0c089-1d64-484c-8173-ddeb73bf8624",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "07.05.2024 klo 08.00",
-      "endtime": "07.05.2024 klo 14.00"
+      "id": "session-50fd74a6-2bf8-4068-b4a6-134a1d552663",
+      "userId": "example@gmail.com",
+      "starttime": "07.05.2024 klo 20.00",
+      "endtime": "07.05.2024 klo 21.00"
     },
     {
-      "id": "session-5e0b1b3b-f880-433b-98cc-9452912d8245",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "08.05.2024 klo 14.00",
+      "id": "session-97c62eca-fe8f-4282-99da-ac352becf795",
+      "userId": "example@gmail.com",
+      "starttime": "08.05.2024 klo 18.00",
       "endtime": "08.05.2024 klo 19.00"
     },
     {
-      "id": "session-a38f0e29-c85c-42a7-9fab-636a03ce7080",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "09.05.2024 klo 09.00",
-      "endtime": "09.05.2024 klo 18.00"
+      "id": "session-c8c9f163-631e-4d4e-80a5-ec0a5f470f83",
+      "userId": "example@gmail.com",
+      "starttime": "09.05.2024 klo 21.00",
+      "endtime": "09.05.2024 klo 22.00"
     },
     {
-      "id": "session-dfe27132-6b7b-479e-b700-b27fbea620da",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "10.05.2024 klo 13.00",
-      "endtime": "10.05.2024 klo 17.00"
+      "id": "session-7e92a32a-9d19-4a41-b453-810b83c57423",
+      "userId": "example@gmail.com",
+      "starttime": "10.05.2024 klo 12.00",
+      "endtime": "10.05.2024 klo 20.00"
     },
     {
-      "id": "session-67754759-3676-4970-866e-785f877a27f1",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "13.05.2024 klo 13.00",
-      "endtime": "13.05.2024 klo 20.00"
+      "id": "session-7d62f8dc-a7d5-48cc-be43-084c760e6295",
+      "userId": "example@gmail.com",
+      "starttime": "13.05.2024 klo 19.00",
+      "endtime": "13.05.2024 klo 21.00"
     },
     {
-      "id": "session-ecc59614-2662-45b8-ace0-f2f7757abb91",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "14.05.2024 klo 13.00",
-      "endtime": "14.05.2024 klo 20.00"
+      "id": "session-1b954003-c8cd-4599-aeeb-66b42d185e85",
+      "userId": "example@gmail.com",
+      "starttime": "14.05.2024 klo 20.00",
+      "endtime": "14.05.2024 klo 21.00"
     },
     {
-      "id": "session-154de18e-dfaf-4a2c-ae7a-0a5f49e8f501",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "15.05.2024 klo 09.00",
-      "endtime": "15.05.2024 klo 18.00"
+      "id": "session-2f7cd7a9-dd62-4905-aa43-e6e24e592754",
+      "userId": "example@gmail.com",
+      "starttime": "15.05.2024 klo 17.00",
+      "endtime": "15.05.2024 klo 21.00"
     },
     {
-      "id": "session-2aee5058-7e31-4b99-82f9-4f4bc6d86396",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "16.05.2024 klo 16.00",
-      "endtime": "16.05.2024 klo 20.00"
+      "id": "session-ce6610a7-4184-47c4-ac58-872e431ff293",
+      "userId": "example@gmail.com",
+      "starttime": "16.05.2024 klo 18.00",
+      "endtime": "16.05.2024 klo 22.00"
     },
     {
-      "id": "session-b27375a6-3c71-4408-8cda-e933648e00b6",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "17.05.2024 klo 08.00",
-      "endtime": "17.05.2024 klo 18.00"
+      "id": "session-d40cb5bf-e8a7-44e7-962c-d9fb1f8dbb4a",
+      "userId": "example@gmail.com",
+      "starttime": "17.05.2024 klo 09.00",
+      "endtime": "17.05.2024 klo 15.00"
     },
     {
-      "id": "session-130d1a02-6bf9-4039-8d94-9f7a9e3d9dfb",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "20.05.2024 klo 15.00",
-      "endtime": "20.05.2024 klo 20.00"
+      "id": "session-8245426c-b483-4b6a-9174-10b76e83d021",
+      "userId": "example@gmail.com",
+      "starttime": "20.05.2024 klo 11.00",
+      "endtime": "20.05.2024 klo 21.00"
     },
     {
-      "id": "session-f08932f4-b558-4ec3-a616-acac04e639be",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "21.05.2024 klo 10.00",
+      "id": "session-c47d6b36-c8d3-477e-a2c8-d48e15976265",
+      "userId": "example@gmail.com",
+      "starttime": "21.05.2024 klo 15.00",
       "endtime": "21.05.2024 klo 18.00"
     },
     {
-      "id": "session-5794b275-1c9b-4aed-bf45-c24a634baba3",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "22.05.2024 klo 10.00",
-      "endtime": "22.05.2024 klo 14.00"
+      "id": "session-2b4b1bcf-4580-4a34-909d-73e1e8196d27",
+      "userId": "example@gmail.com",
+      "starttime": "22.05.2024 klo 08.00",
+      "endtime": "22.05.2024 klo 10.00"
     },
     {
-      "id": "session-e4838b88-9d01-410b-9f7d-ddc68f4f7cdd",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "23.05.2024 klo 12.00",
-      "endtime": "23.05.2024 klo 18.00"
+      "id": "session-f965e258-0386-4c2e-a3af-07eb4e15e75a",
+      "userId": "example@gmail.com",
+      "starttime": "23.05.2024 klo 20.00",
+      "endtime": "23.05.2024 klo 21.00"
     },
     {
-      "id": "session-c5eedcbc-b9f4-451d-8d83-a1dba7a32a8b",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "24.05.2024 klo 11.00",
-      "endtime": "24.05.2024 klo 20.00"
+      "id": "session-a51ebcd8-5328-4b40-b0c8-383cef4b23fb",
+      "userId": "example@gmail.com",
+      "starttime": "24.05.2024 klo 16.00",
+      "endtime": "24.05.2024 klo 22.00"
     },
     {
-      "id": "session-baade87e-eb72-4848-a9f0-3adcfc4823b8",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "27.05.2024 klo 13.00",
-      "endtime": "27.05.2024 klo 19.00"
+      "id": "session-a0458793-b5b4-4baa-8d9a-a9d61fba672f",
+      "userId": "example@gmail.com",
+      "starttime": "27.05.2024 klo 18.00",
+      "endtime": "27.05.2024 klo 21.00"
     },
     {
-      "id": "session-d0fd24f0-dfb8-4e7d-b194-15ff81341cdf",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "28.05.2024 klo 15.00",
-      "endtime": "28.05.2024 klo 20.00"
+      "id": "session-5ecaa741-d755-42db-a353-b2133f028d66",
+      "userId": "example@gmail.com",
+      "starttime": "28.05.2024 klo 19.00",
+      "endtime": "28.05.2024 klo 21.00"
     },
     {
-      "id": "session-b9974850-4c7c-44da-a252-d00aacde322f",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "29.05.2024 klo 07.00",
-      "endtime": "29.05.2024 klo 16.00"
+      "id": "session-aa7963cc-5ef5-4e57-88f2-6f65f5380a43",
+      "userId": "example@gmail.com",
+      "starttime": "29.05.2024 klo 17.00",
+      "endtime": "29.05.2024 klo 18.00"
     },
     {
-      "id": "session-d4d5cfa3-133c-4e6f-8c97-72aa2ea00478",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "30.05.2024 klo 11.00",
-      "endtime": "30.05.2024 klo 17.00"
+      "id": "session-ae2e0f74-d425-4a22-8da8-269c80a4f3eb",
+      "userId": "example@gmail.com",
+      "starttime": "30.05.2024 klo 15.00",
+      "endtime": "30.05.2024 klo 21.00"
     },
     {
-      "id": "session-c9d8d45e-169c-4d77-864d-d21ae5747277",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "31.05.2024 klo 10.00",
-      "endtime": "31.05.2024 klo 18.00"
+      "id": "session-ae684a51-fb26-4903-a032-022973c0bbd1",
+      "userId": "example@gmail.com",
+      "starttime": "31.05.2024 klo 11.00",
+      "endtime": "31.05.2024 klo 22.00"
     },
     {
-      "id": "session-0f4b3aad-dfc5-49cc-b795-a08226c0f98a",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "03.06.2024 klo 13.00",
-      "endtime": "03.06.2024 klo 20.00"
+      "id": "session-b68871db-ad06-48c1-b8e4-d391e533c1ef",
+      "userId": "example@gmail.com",
+      "starttime": "03.06.2024 klo 14.00",
+      "endtime": "03.06.2024 klo 21.00"
     },
     {
-      "id": "session-64b38263-f66f-47db-a0eb-c00a5644d469",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "04.06.2024 klo 09.00",
-      "endtime": "04.06.2024 klo 19.00"
+      "id": "session-53de58f1-df8f-4b0e-a339-991074d14604",
+      "userId": "example@gmail.com",
+      "starttime": "04.06.2024 klo 21.00",
+      "endtime": "04.06.2024 klo 22.00"
     },
     {
-      "id": "session-59d041b7-a05d-40f0-a656-923ec4775144",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "05.06.2024 klo 10.00",
-      "endtime": "05.06.2024 klo 17.00"
+      "id": "session-4423c698-7853-49b9-a630-c9c88c361c0e",
+      "userId": "example@gmail.com",
+      "starttime": "05.06.2024 klo 12.00",
+      "endtime": "05.06.2024 klo 22.00"
     },
     {
-      "id": "session-0d53ef39-5423-4073-8fe7-3d5bf511298c",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "06.06.2024 klo 13.00",
-      "endtime": "06.06.2024 klo 19.00"
+      "id": "session-c51e5f2c-57b6-46a5-bd1d-1713ffdc2530",
+      "userId": "example@gmail.com",
+      "starttime": "06.06.2024 klo 21.00",
+      "endtime": "06.06.2024 klo 22.00"
     },
     {
-      "id": "session-b273b449-8381-4189-9bd2-a69f7d51a20e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "07.06.2024 klo 10.00",
-      "endtime": "07.06.2024 klo 16.00"
+      "id": "session-3868d661-f162-4f62-9576-da8ac04f7081",
+      "userId": "example@gmail.com",
+      "starttime": "07.06.2024 klo 09.00",
+      "endtime": "07.06.2024 klo 20.00"
     },
     {
-      "id": "session-40ff332e-1fdd-418e-a616-5b1fa58cee28",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "10.06.2024 klo 07.00",
-      "endtime": "10.06.2024 klo 13.00"
+      "id": "session-bede05cc-eb5e-4dea-bbbd-b176b2348126",
+      "userId": "example@gmail.com",
+      "starttime": "10.06.2024 klo 11.00",
+      "endtime": "10.06.2024 klo 15.00"
     },
     {
-      "id": "session-e7b8bd4e-c5d5-4b83-aa9e-3e3e207f3e38",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "11.06.2024 klo 07.00",
-      "endtime": "11.06.2024 klo 17.00"
+      "id": "session-7eb8817e-1037-41a6-b6f1-5888269efbd5",
+      "userId": "example@gmail.com",
+      "starttime": "11.06.2024 klo 12.00",
+      "endtime": "11.06.2024 klo 22.00"
     },
     {
-      "id": "session-f308ed46-d7ee-4ce6-826d-2d82f6484bcc",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "12.06.2024 klo 15.00",
-      "endtime": "12.06.2024 klo 20.00"
+      "id": "session-1424e2ac-d160-4cdb-b8d7-1fe1402504cb",
+      "userId": "example@gmail.com",
+      "starttime": "12.06.2024 klo 20.00",
+      "endtime": "12.06.2024 klo 21.00"
     },
     {
-      "id": "session-5bce4c2a-b2a4-48d4-8dca-25afc17c8e95",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "13.06.2024 klo 14.00",
-      "endtime": "13.06.2024 klo 18.00"
+      "id": "session-5e6e2cda-350b-4c3e-b1d8-8f22760868ea",
+      "userId": "example@gmail.com",
+      "starttime": "13.06.2024 klo 12.00",
+      "endtime": "13.06.2024 klo 21.00"
     },
     {
-      "id": "session-a7b48d1c-5d97-4380-9d76-41503c1deda5",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "14.06.2024 klo 13.00",
-      "endtime": "14.06.2024 klo 18.00"
+      "id": "session-b797579b-b964-4bc6-af1a-4f38a1ac2e17",
+      "userId": "example@gmail.com",
+      "starttime": "14.06.2024 klo 10.00",
+      "endtime": "14.06.2024 klo 14.00"
     },
     {
-      "id": "session-27eb448b-4055-441c-ac0a-585a5891c8b3",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "17.06.2024 klo 12.00",
-      "endtime": "17.06.2024 klo 19.00"
+      "id": "session-50040c3d-24e1-40b7-a81a-58d0dc465185",
+      "userId": "example@gmail.com",
+      "starttime": "17.06.2024 klo 08.00",
+      "endtime": "17.06.2024 klo 22.00"
     },
     {
-      "id": "session-dfaf253d-fd0c-4f2a-808d-4988c76ee700",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "18.06.2024 klo 16.00",
+      "id": "session-e450dbba-1151-4149-9cdd-f9f795ce6524",
+      "userId": "example@gmail.com",
+      "starttime": "18.06.2024 klo 18.00",
       "endtime": "18.06.2024 klo 20.00"
     },
     {
-      "id": "session-481b4c71-c607-44c4-8f9a-98e3ed904697",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "19.06.2024 klo 08.00",
+      "id": "session-bcbc216e-541e-4d47-867c-7df498059d2d",
+      "userId": "example@gmail.com",
+      "starttime": "19.06.2024 klo 10.00",
       "endtime": "19.06.2024 klo 15.00"
     },
     {
-      "id": "session-4c87e7b7-8c80-4e59-846c-49cbc61cc385",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "20.06.2024 klo 16.00",
-      "endtime": "20.06.2024 klo 20.00"
+      "id": "session-4f10192e-3cca-41f3-b76a-d240031e84ef",
+      "userId": "example@gmail.com",
+      "starttime": "20.06.2024 klo 07.00",
+      "endtime": "20.06.2024 klo 14.00"
     },
     {
-      "id": "session-7b4442f0-e626-4930-aaed-5ea40a0eef8b",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "21.06.2024 klo 07.00",
-      "endtime": "21.06.2024 klo 12.00"
+      "id": "session-1592e5a5-4850-440e-b2a5-6a288829a9f6",
+      "userId": "example@gmail.com",
+      "starttime": "21.06.2024 klo 16.00",
+      "endtime": "21.06.2024 klo 20.00"
     },
     {
-      "id": "session-66b6558c-b28f-4681-aed1-5b8c13b8ca20",
-      "userId": "tomivais@student.uef.fi",
+      "id": "session-80d6e752-ff05-48ad-9246-bc032db5ef67",
+      "userId": "example@gmail.com",
       "starttime": "24.06.2024 klo 13.00",
-      "endtime": "24.06.2024 klo 17.00"
+      "endtime": "24.06.2024 klo 18.00"
     },
     {
-      "id": "session-ee82d414-98dd-43fb-86b7-e5d5ac35c798",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "25.06.2024 klo 11.00",
-      "endtime": "25.06.2024 klo 20.00"
+      "id": "session-f15218f1-6bfb-4eea-9ef5-0e54c3e0a65b",
+      "userId": "example@gmail.com",
+      "starttime": "25.06.2024 klo 20.00",
+      "endtime": "25.06.2024 klo 22.00"
     },
     {
-      "id": "session-42376a05-f56e-4290-97d4-8ff02f07c7a7",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "26.06.2024 klo 12.00",
-      "endtime": "26.06.2024 klo 18.00"
+      "id": "session-82c5c5fe-7a94-4ec0-aed6-468ba92e8dfe",
+      "userId": "example@gmail.com",
+      "starttime": "26.06.2024 klo 21.00",
+      "endtime": "26.06.2024 klo 22.00"
     },
     {
-      "id": "session-07f9f706-f4f5-47ff-be80-b23103c7e6a9",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "27.06.2024 klo 07.00",
-      "endtime": "27.06.2024 klo 16.00"
+      "id": "session-d641c045-6cf5-4e60-a552-62b1ae5e3043",
+      "userId": "example@gmail.com",
+      "starttime": "27.06.2024 klo 12.00",
+      "endtime": "27.06.2024 klo 21.00"
     },
     {
-      "id": "session-f0f6613b-cc12-4c62-9845-b58b8749ca94",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "28.06.2024 klo 07.00",
-      "endtime": "28.06.2024 klo 14.00"
+      "id": "session-74a650d7-7b11-4ac9-b40b-1aed6b17f6f7",
+      "userId": "example@gmail.com",
+      "starttime": "28.06.2024 klo 17.00",
+      "endtime": "28.06.2024 klo 20.00"
     },
     {
-      "id": "session-bf6166a3-82d7-4410-ae52-2c07f3674c75",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "01.07.2024 klo 15.00",
-      "endtime": "01.07.2024 klo 19.00"
+      "id": "session-896c9074-570e-452b-adb6-e1c2241262e6",
+      "userId": "example@gmail.com",
+      "starttime": "01.07.2024 klo 09.00",
+      "endtime": "01.07.2024 klo 17.00"
     },
     {
-      "id": "session-dcef602a-15e2-49d7-93af-bf3bfaf8b016",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "02.07.2024 klo 11.00",
-      "endtime": "02.07.2024 klo 17.00"
+      "id": "session-328d5107-c024-4c92-9f9e-efc5044db70d",
+      "userId": "example@gmail.com",
+      "starttime": "02.07.2024 klo 19.00",
+      "endtime": "02.07.2024 klo 20.00"
     },
     {
-      "id": "session-836a1083-d17c-417a-8274-e2018be7113f",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "03.07.2024 klo 13.00",
-      "endtime": "03.07.2024 klo 17.00"
+      "id": "session-d943e05c-b28a-4e20-b8f7-1f1dc3b7948a",
+      "userId": "example@gmail.com",
+      "starttime": "03.07.2024 klo 21.00",
+      "endtime": "03.07.2024 klo 22.00"
     },
     {
-      "id": "session-89a9cef0-b5e8-44fb-931f-2a9ecccd38bf",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "04.07.2024 klo 15.00",
-      "endtime": "04.07.2024 klo 20.00"
+      "id": "session-00b3dc46-9278-442c-917e-535ebc1e68e7",
+      "userId": "example@gmail.com",
+      "starttime": "04.07.2024 klo 19.00",
+      "endtime": "04.07.2024 klo 22.00"
     },
     {
-      "id": "session-57a34607-8deb-4839-ad2a-8f65f091a8a3",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "05.07.2024 klo 16.00",
-      "endtime": "05.07.2024 klo 20.00"
+      "id": "session-36819e38-f8ef-4b8f-be93-a98c96e9075c",
+      "userId": "example@gmail.com",
+      "starttime": "05.07.2024 klo 21.00",
+      "endtime": "05.07.2024 klo 22.00"
     },
     {
-      "id": "session-23ee69b3-9bf6-4c99-9090-df7ce3b6d3d2",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "08.07.2024 klo 16.00",
-      "endtime": "08.07.2024 klo 20.00"
+      "id": "session-eb2c2cdd-9f4a-4193-a5e0-c196a39c08f9",
+      "userId": "example@gmail.com",
+      "starttime": "08.07.2024 klo 14.00",
+      "endtime": "08.07.2024 klo 16.00"
     },
     {
-      "id": "session-3bf8b9bf-c319-4741-bf93-7f433db778aa",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "09.07.2024 klo 16.00",
-      "endtime": "09.07.2024 klo 20.00"
+      "id": "session-377fd1e8-f045-4e99-aea0-256646a31fab",
+      "userId": "example@gmail.com",
+      "starttime": "09.07.2024 klo 11.00",
+      "endtime": "09.07.2024 klo 21.00"
     },
     {
-      "id": "session-043da524-af53-4132-bb72-cbe77238c1fe",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "10.07.2024 klo 10.00",
-      "endtime": "10.07.2024 klo 14.00"
+      "id": "session-8b6c9800-a73d-4ce8-ad08-8f3da02a9a40",
+      "userId": "example@gmail.com",
+      "starttime": "10.07.2024 klo 16.00",
+      "endtime": "10.07.2024 klo 17.00"
     },
     {
-      "id": "session-a59eeef4-3bc7-4174-815b-6c67af7e430d",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "11.07.2024 klo 10.00",
-      "endtime": "11.07.2024 klo 16.00"
+      "id": "session-396d2f36-0fb9-4f67-b6d9-b602b81d1587",
+      "userId": "example@gmail.com",
+      "starttime": "11.07.2024 klo 20.00",
+      "endtime": "11.07.2024 klo 22.00"
     },
     {
-      "id": "session-f154d647-9122-4198-aa62-259818ca4f2b",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "12.07.2024 klo 15.00",
-      "endtime": "12.07.2024 klo 19.00"
+      "id": "session-bc532959-b22b-4cca-91d1-3e60236fab15",
+      "userId": "example@gmail.com",
+      "starttime": "12.07.2024 klo 19.00",
+      "endtime": "12.07.2024 klo 21.00"
     },
     {
-      "id": "session-1d8b41f8-da6d-437c-998c-5ad62cfcd138",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "15.07.2024 klo 09.00",
-      "endtime": "15.07.2024 klo 15.00"
+      "id": "session-e74f8ffc-6897-4d38-b928-96f1d995d1ed",
+      "userId": "example@gmail.com",
+      "starttime": "15.07.2024 klo 19.00",
+      "endtime": "15.07.2024 klo 20.00"
     },
     {
-      "id": "session-0e7de18a-ea31-43a4-b306-c5109241b58e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "16.07.2024 klo 07.00",
-      "endtime": "16.07.2024 klo 17.00"
+      "id": "session-6429d383-f68f-4351-8d2d-608b780dc093",
+      "userId": "example@gmail.com",
+      "starttime": "16.07.2024 klo 20.00",
+      "endtime": "16.07.2024 klo 22.00"
     },
     {
-      "id": "session-89cb27ea-8850-46d4-a54c-fbeb947b99aa",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "17.07.2024 klo 08.00",
-      "endtime": "17.07.2024 klo 17.00"
+      "id": "session-b8c6f9d7-05d7-4918-af56-2240e3b4df5e",
+      "userId": "example@gmail.com",
+      "starttime": "17.07.2024 klo 11.00",
+      "endtime": "17.07.2024 klo 20.00"
     },
     {
-      "id": "session-022c1da1-a2c6-4917-93ee-ec624afd3ddf",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "18.07.2024 klo 12.00",
-      "endtime": "18.07.2024 klo 17.00"
+      "id": "session-7052b886-55ff-4bb3-9d0d-d9c39a4ae0f0",
+      "userId": "example@gmail.com",
+      "starttime": "18.07.2024 klo 09.00",
+      "endtime": "18.07.2024 klo 14.00"
     },
     {
-      "id": "session-2889c0b2-2b06-42d3-8791-e5aef115b3de",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "19.07.2024 klo 15.00",
-      "endtime": "19.07.2024 klo 20.00"
+      "id": "session-433b3674-181c-4c58-8f83-bb2a787d1b30",
+      "userId": "example@gmail.com",
+      "starttime": "19.07.2024 klo 12.00",
+      "endtime": "19.07.2024 klo 19.00"
     },
     {
-      "id": "session-8783e172-817c-4d1b-addc-b8a1f376330f",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "22.07.2024 klo 07.00",
-      "endtime": "22.07.2024 klo 12.00"
+      "id": "session-7900be54-144a-41ce-a93e-b6fa4ec49a3e",
+      "userId": "example@gmail.com",
+      "starttime": "22.07.2024 klo 20.00",
+      "endtime": "22.07.2024 klo 21.00"
     },
     {
-      "id": "session-391da362-5f7e-4699-8e62-8a9660493a28",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "23.07.2024 klo 13.00",
-      "endtime": "23.07.2024 klo 20.00"
+      "id": "session-4b62b56a-1035-4c0e-b14b-074ad7620178",
+      "userId": "example@gmail.com",
+      "starttime": "23.07.2024 klo 10.00",
+      "endtime": "23.07.2024 klo 17.00"
     },
     {
-      "id": "session-b66363d4-4aa6-4fc3-b673-a77236fe3fd3",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "24.07.2024 klo 14.00",
+      "id": "session-5e705dfe-73ab-4868-adfa-4b933caa2ba9",
+      "userId": "example@gmail.com",
+      "starttime": "24.07.2024 klo 07.00",
       "endtime": "24.07.2024 klo 20.00"
     },
     {
-      "id": "session-a7452b86-0e8d-462e-8e9c-62144304b227",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "25.07.2024 klo 11.00",
-      "endtime": "25.07.2024 klo 20.00"
+      "id": "session-1d4c1dd3-170c-4a0f-9a5d-8720c297a7d6",
+      "userId": "example@gmail.com",
+      "starttime": "25.07.2024 klo 09.00",
+      "endtime": "25.07.2024 klo 16.00"
     },
     {
-      "id": "session-490bc389-937d-4111-82fb-f62a9a210c2f",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "26.07.2024 klo 13.00",
-      "endtime": "26.07.2024 klo 19.00"
+      "id": "session-0b0944ea-9411-41a6-bb23-d9973f4554c8",
+      "userId": "example@gmail.com",
+      "starttime": "26.07.2024 klo 19.00",
+      "endtime": "26.07.2024 klo 20.00"
     },
     {
-      "id": "session-e0cf531b-2c9b-43c4-8a5f-3dbaa39d92df",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "29.07.2024 klo 11.00",
-      "endtime": "29.07.2024 klo 16.00"
+      "id": "session-bdce7615-5263-4be5-9f26-f03d627be26c",
+      "userId": "example@gmail.com",
+      "starttime": "29.07.2024 klo 07.00",
+      "endtime": "29.07.2024 klo 10.00"
     },
     {
-      "id": "session-f8ccc566-b05b-4b7b-a358-ecb9e75bb51a",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "30.07.2024 klo 09.00",
-      "endtime": "30.07.2024 klo 15.00"
+      "id": "session-e408e80d-44b4-4302-acfe-1257d1dd5249",
+      "userId": "example@gmail.com",
+      "starttime": "30.07.2024 klo 21.00",
+      "endtime": "30.07.2024 klo 22.00"
     },
     {
-      "id": "session-77bc46cd-9ed3-4f30-bb34-95fa380801f5",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "31.07.2024 klo 13.00",
-      "endtime": "31.07.2024 klo 20.00"
+      "id": "session-0a3f7991-1a2b-429c-978f-dcb2ac3bf361",
+      "userId": "example@gmail.com",
+      "starttime": "31.07.2024 klo 11.00",
+      "endtime": "31.07.2024 klo 18.00"
     },
     {
-      "id": "session-3165ed24-9f10-4320-b9a9-a7855bd80e9c",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "01.08.2024 klo 09.00",
-      "endtime": "01.08.2024 klo 15.00"
+      "id": "session-a68e2023-b199-46c7-a08b-bd0291e181c2",
+      "userId": "example@gmail.com",
+      "starttime": "01.08.2024 klo 21.00",
+      "endtime": "01.08.2024 klo 22.00"
     },
     {
-      "id": "session-8a2c7a39-6323-4d56-8dfa-6953e96b2c2f",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "02.08.2024 klo 10.00",
-      "endtime": "02.08.2024 klo 14.00"
+      "id": "session-7723f04a-123d-4af6-9910-e48c7151eeb3",
+      "userId": "example@gmail.com",
+      "starttime": "02.08.2024 klo 14.00",
+      "endtime": "02.08.2024 klo 21.00"
     },
     {
-      "id": "session-6689b8d3-f7af-487d-86b2-bbf1dd35d1b6",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "05.08.2024 klo 12.00",
-      "endtime": "05.08.2024 klo 20.00"
+      "id": "session-b655fa0d-bb9a-40cd-b23b-d1e2657c520e",
+      "userId": "example@gmail.com",
+      "starttime": "05.08.2024 klo 20.00",
+      "endtime": "05.08.2024 klo 22.00"
     },
     {
-      "id": "session-1f64af5e-ba68-42dc-9c46-61952cce27d3",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "06.08.2024 klo 08.00",
-      "endtime": "06.08.2024 klo 15.00"
+      "id": "session-af9305fd-254a-4074-8440-4472713ccea4",
+      "userId": "example@gmail.com",
+      "starttime": "06.08.2024 klo 19.00",
+      "endtime": "06.08.2024 klo 20.00"
     },
     {
-      "id": "session-efdb7f06-18d4-4c44-a519-69b9a77a3898",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "07.08.2024 klo 07.00",
-      "endtime": "07.08.2024 klo 15.00"
+      "id": "session-ebe9d05e-da80-49cb-89b0-e235c3f9f017",
+      "userId": "example@gmail.com",
+      "starttime": "07.08.2024 klo 09.00",
+      "endtime": "07.08.2024 klo 17.00"
     },
     {
-      "id": "session-80e583bc-a97d-460d-8d87-3c279aa9f860",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "08.08.2024 klo 15.00",
+      "id": "session-750048ae-fb83-4274-b237-d3c391347ff6",
+      "userId": "example@gmail.com",
+      "starttime": "08.08.2024 klo 18.00",
       "endtime": "08.08.2024 klo 19.00"
     },
     {
-      "id": "session-bba067d1-928e-441e-a713-76cc50d2c6a1",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "09.08.2024 klo 10.00",
-      "endtime": "09.08.2024 klo 20.00"
+      "id": "session-8479eedd-e055-4a18-ae07-749d95923d16",
+      "userId": "example@gmail.com",
+      "starttime": "09.08.2024 klo 19.00",
+      "endtime": "09.08.2024 klo 22.00"
     },
     {
-      "id": "session-bf2abd16-4398-4928-867e-539ec5ffed12",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "12.08.2024 klo 08.00",
-      "endtime": "12.08.2024 klo 14.00"
+      "id": "session-2a75c1d5-d2ef-410d-a371-895c5825abc7",
+      "userId": "example@gmail.com",
+      "starttime": "12.08.2024 klo 17.00",
+      "endtime": "12.08.2024 klo 19.00"
     },
     {
-      "id": "session-7ded31f0-b868-46bf-9b6a-7984c9367549",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "13.08.2024 klo 09.00",
-      "endtime": "13.08.2024 klo 16.00"
+      "id": "session-3e616905-dd4c-425c-bed1-eed223170c09",
+      "userId": "example@gmail.com",
+      "starttime": "13.08.2024 klo 08.00",
+      "endtime": "13.08.2024 klo 10.00"
     },
     {
-      "id": "session-ab9b8bad-22e4-484b-9d91-b9b4e623da16",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "14.08.2024 klo 10.00",
-      "endtime": "14.08.2024 klo 16.00"
+      "id": "session-7ec58883-a330-46cb-a8f9-3c519f202fc0",
+      "userId": "example@gmail.com",
+      "starttime": "14.08.2024 klo 08.00",
+      "endtime": "14.08.2024 klo 09.00"
     },
     {
-      "id": "session-1bb93844-824e-4b2c-82bb-705d191fc6c3",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "15.08.2024 klo 14.00",
+      "id": "session-64bd7baa-3c3e-4d09-9d7e-fd6370e5314e",
+      "userId": "example@gmail.com",
+      "starttime": "15.08.2024 klo 15.00",
       "endtime": "15.08.2024 klo 20.00"
     },
     {
-      "id": "session-e6407c0a-7ba4-4168-a10c-1ab03cc7ce2f",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "16.08.2024 klo 13.00",
-      "endtime": "16.08.2024 klo 18.00"
+      "id": "session-16e0cbcf-1e17-46e0-82d7-6783e0eb83ac",
+      "userId": "example@gmail.com",
+      "starttime": "16.08.2024 klo 12.00",
+      "endtime": "16.08.2024 klo 13.00"
     },
     {
-      "id": "session-dd8eb99a-5214-434d-95ae-f3f0e72c56c3",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "19.08.2024 klo 10.00",
-      "endtime": "19.08.2024 klo 18.00"
+      "id": "session-09c21063-f957-400e-af97-4a90cc6736bb",
+      "userId": "example@gmail.com",
+      "starttime": "19.08.2024 klo 20.00",
+      "endtime": "19.08.2024 klo 21.00"
     },
     {
-      "id": "session-a14955ec-8491-4380-93f3-bb95d54d8859",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "20.08.2024 klo 16.00",
-      "endtime": "20.08.2024 klo 20.00"
+      "id": "session-d3a52254-a0d9-4033-8048-56baccb631ce",
+      "userId": "example@gmail.com",
+      "starttime": "20.08.2024 klo 20.00",
+      "endtime": "20.08.2024 klo 22.00"
     },
     {
-      "id": "session-adda7817-d169-4a06-8522-76b446e4cfa0",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "21.08.2024 klo 13.00",
-      "endtime": "21.08.2024 klo 20.00"
+      "id": "session-2ec1cc56-812a-4b05-a127-c790c24cadf8",
+      "userId": "example@gmail.com",
+      "starttime": "21.08.2024 klo 15.00",
+      "endtime": "21.08.2024 klo 19.00"
     },
     {
-      "id": "session-13ab0e85-4208-425a-bf9a-2c1162e697b9",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "22.08.2024 klo 08.00",
-      "endtime": "22.08.2024 klo 12.00"
+      "id": "session-1e5bbc28-9ae2-4929-8cb1-1b4cd61e26f1",
+      "userId": "example@gmail.com",
+      "starttime": "22.08.2024 klo 15.00",
+      "endtime": "22.08.2024 klo 21.00"
     },
     {
-      "id": "session-56bda3d9-813f-4b42-8142-c3bf73d3de28",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "23.08.2024 klo 14.00",
-      "endtime": "23.08.2024 klo 19.00"
+      "id": "session-b3c5b0b7-90df-44e2-890a-5a93faea82d7",
+      "userId": "example@gmail.com",
+      "starttime": "23.08.2024 klo 08.00",
+      "endtime": "23.08.2024 klo 20.00"
     },
     {
-      "id": "session-863a9749-3134-4321-ba7a-9d5b1d7f8c7e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "26.08.2024 klo 16.00",
-      "endtime": "26.08.2024 klo 20.00"
+      "id": "session-bdc6ada2-022e-4929-9b9e-e269fe2885bc",
+      "userId": "example@gmail.com",
+      "starttime": "26.08.2024 klo 21.00",
+      "endtime": "26.08.2024 klo 22.00"
     },
     {
-      "id": "session-2402f4d2-940d-42ba-9b64-3148bf45bede",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "27.08.2024 klo 15.00",
-      "endtime": "27.08.2024 klo 20.00"
+      "id": "session-7148d4ed-ba78-4a2a-bb28-8e67035d2bd2",
+      "userId": "example@gmail.com",
+      "starttime": "27.08.2024 klo 09.00",
+      "endtime": "27.08.2024 klo 22.00"
     },
     {
-      "id": "session-2089f4d6-3ba3-4e73-8e39-33b88df21b2e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "28.08.2024 klo 11.00",
+      "id": "session-d4fba465-c5f5-4a0b-a4c7-d68b13562abd",
+      "userId": "example@gmail.com",
+      "starttime": "28.08.2024 klo 19.00",
       "endtime": "28.08.2024 klo 20.00"
     },
     {
-      "id": "session-8a33f1ab-d46a-4cf4-bd07-4276686324a5",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "29.08.2024 klo 11.00",
-      "endtime": "29.08.2024 klo 18.00"
+      "id": "session-269020be-d8d6-41fc-bc3d-51168a1b3e84",
+      "userId": "example@gmail.com",
+      "starttime": "29.08.2024 klo 10.00",
+      "endtime": "29.08.2024 klo 13.00"
     },
     {
-      "id": "session-dd5e75f7-7db8-4cae-8a3b-27c84b11ba4a",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "30.08.2024 klo 10.00",
-      "endtime": "30.08.2024 klo 18.00"
+      "id": "session-d7d77770-d478-47e6-a144-d8bf788fb84f",
+      "userId": "example@gmail.com",
+      "starttime": "30.08.2024 klo 12.00",
+      "endtime": "30.08.2024 klo 22.00"
     },
     {
-      "id": "session-79b57a88-ed9b-4be9-a230-6835dcb2fc69",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "02.09.2024 klo 15.00",
-      "endtime": "02.09.2024 klo 19.00"
+      "id": "session-9f962b6c-4f70-4444-bd83-2d646765ba2a",
+      "userId": "example@gmail.com",
+      "starttime": "02.09.2024 klo 21.00",
+      "endtime": "02.09.2024 klo 22.00"
     },
     {
-      "id": "session-8aa1a80b-4203-49e6-8906-a3df875182e5",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "03.09.2024 klo 12.00",
-      "endtime": "03.09.2024 klo 20.00"
+      "id": "session-00bd2131-1604-4b1c-88d2-2f5fa00ae05a",
+      "userId": "example@gmail.com",
+      "starttime": "03.09.2024 klo 17.00",
+      "endtime": "03.09.2024 klo 18.00"
     },
     {
-      "id": "session-5864721a-baea-4933-80a8-a1d61df0f51c",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "04.09.2024 klo 10.00",
-      "endtime": "04.09.2024 klo 20.00"
+      "id": "session-a29b12e4-e00f-4ca5-8fe2-3f8f5d12d727",
+      "userId": "example@gmail.com",
+      "starttime": "04.09.2024 klo 15.00",
+      "endtime": "04.09.2024 klo 17.00"
     },
     {
-      "id": "session-20370be7-843e-4a45-9929-6a4e04b24bbf",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "05.09.2024 klo 14.00",
-      "endtime": "05.09.2024 klo 19.00"
+      "id": "session-4c51ab7a-b618-4bb8-a89e-f3027b279cea",
+      "userId": "example@gmail.com",
+      "starttime": "05.09.2024 klo 21.00",
+      "endtime": "05.09.2024 klo 22.00"
     },
     {
-      "id": "session-96685af2-9c37-4d23-8789-c16e2d45dc48",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "06.09.2024 klo 08.00",
-      "endtime": "06.09.2024 klo 12.00"
+      "id": "session-d9db07fe-ec90-4f9e-acde-2241de2fd023",
+      "userId": "example@gmail.com",
+      "starttime": "06.09.2024 klo 16.00",
+      "endtime": "06.09.2024 klo 17.00"
     },
     {
-      "id": "session-9d8e9f78-a1d6-49d9-855e-9a4c73e845df",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "09.09.2024 klo 08.00",
-      "endtime": "09.09.2024 klo 18.00"
+      "id": "session-28f7a34c-3dbe-44e9-83bf-8428a952f87d",
+      "userId": "example@gmail.com",
+      "starttime": "09.09.2024 klo 14.00",
+      "endtime": "09.09.2024 klo 17.00"
     },
     {
-      "id": "session-d1fd5dcb-0c4b-4a68-8e05-491998f293f8",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "10.09.2024 klo 09.00",
-      "endtime": "10.09.2024 klo 17.00"
+      "id": "session-c9cd1076-6b65-46ff-ac0c-04387a01f6ce",
+      "userId": "example@gmail.com",
+      "starttime": "10.09.2024 klo 16.00",
+      "endtime": "10.09.2024 klo 19.00"
     },
     {
-      "id": "session-3987ae67-5518-4e35-85cf-cbc46fec3f79",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "11.09.2024 klo 07.00",
-      "endtime": "11.09.2024 klo 11.00"
+      "id": "session-8346c25b-cefe-4f1c-8125-e771cb34da15",
+      "userId": "example@gmail.com",
+      "starttime": "11.09.2024 klo 14.00",
+      "endtime": "11.09.2024 klo 19.00"
     },
     {
-      "id": "session-43eb36ae-5f93-49a3-8547-a0638ee402dc",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "12.09.2024 klo 13.00",
-      "endtime": "12.09.2024 klo 18.00"
+      "id": "session-d7ad5c29-7a87-49bf-8695-6943bba0bad6",
+      "userId": "example@gmail.com",
+      "starttime": "12.09.2024 klo 21.00",
+      "endtime": "12.09.2024 klo 22.00"
     },
     {
-      "id": "session-94392450-3b59-4369-a738-d312a3f856bf",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "13.09.2024 klo 14.00",
-      "endtime": "13.09.2024 klo 18.00"
+      "id": "session-5b56b911-6fdd-4a8a-8281-adb54ca9296c",
+      "userId": "example@gmail.com",
+      "starttime": "13.09.2024 klo 11.00",
+      "endtime": "13.09.2024 klo 21.00"
     },
     {
-      "id": "session-cb5f483a-6f0e-4aa3-adcf-6e64897df3d9",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "16.09.2024 klo 08.00",
-      "endtime": "16.09.2024 klo 16.00"
+      "id": "session-e473fbce-49af-43f1-a84a-4fb0110979c3",
+      "userId": "example@gmail.com",
+      "starttime": "16.09.2024 klo 16.00",
+      "endtime": "16.09.2024 klo 22.00"
     },
     {
-      "id": "session-0d14d653-3a2b-4e94-900b-bd4871bc688a",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "17.09.2024 klo 11.00",
-      "endtime": "17.09.2024 klo 19.00"
+      "id": "session-e793a589-9151-4287-b74f-9ef186b6fc1b",
+      "userId": "example@gmail.com",
+      "starttime": "17.09.2024 klo 21.00",
+      "endtime": "17.09.2024 klo 22.00"
     },
     {
-      "id": "session-74bbe71f-2387-442e-9188-9dc4e22a8b77",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "18.09.2024 klo 09.00",
-      "endtime": "18.09.2024 klo 15.00"
+      "id": "session-cc47181c-60aa-48ae-bbea-e3968933f056",
+      "userId": "example@gmail.com",
+      "starttime": "18.09.2024 klo 14.00",
+      "endtime": "18.09.2024 klo 17.00"
     },
     {
-      "id": "session-9767478b-50f4-455a-a5c9-c3d98aa60f96",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "19.09.2024 klo 13.00",
+      "id": "session-27b8036a-383a-461f-8726-bdbf9b8aceef",
+      "userId": "example@gmail.com",
+      "starttime": "19.09.2024 klo 09.00",
       "endtime": "19.09.2024 klo 18.00"
     },
     {
-      "id": "session-b967a6dd-a4ba-43fb-b107-e71014c519ea",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "20.09.2024 klo 09.00",
-      "endtime": "20.09.2024 klo 14.00"
+      "id": "session-765235f3-da5a-494b-ab73-5f3bec483c8d",
+      "userId": "example@gmail.com",
+      "starttime": "20.09.2024 klo 07.00",
+      "endtime": "20.09.2024 klo 11.00"
     },
     {
-      "id": "session-5a2cfb74-7078-4bee-b467-1f6cae0ca70a",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "23.09.2024 klo 09.00",
-      "endtime": "23.09.2024 klo 17.00"
+      "id": "session-1eb17f0b-dd3b-4144-b3db-67eb2f23f13d",
+      "userId": "example@gmail.com",
+      "starttime": "23.09.2024 klo 13.00",
+      "endtime": "23.09.2024 klo 21.00"
     },
     {
-      "id": "session-85e500a9-41f4-49c6-adcc-c2e29eb207a8",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "24.09.2024 klo 10.00",
-      "endtime": "24.09.2024 klo 16.00"
+      "id": "session-913f7e7f-34ad-44bf-979e-a53982b20f8c",
+      "userId": "example@gmail.com",
+      "starttime": "24.09.2024 klo 08.00",
+      "endtime": "24.09.2024 klo 19.00"
     },
     {
-      "id": "session-22c6ee65-6e5c-4b25-92b4-f9c11a1f1a42",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "25.09.2024 klo 07.00",
-      "endtime": "25.09.2024 klo 11.00"
+      "id": "session-10a7c0c8-8391-401f-8838-ba10b96ddf1e",
+      "userId": "example@gmail.com",
+      "starttime": "25.09.2024 klo 18.00",
+      "endtime": "25.09.2024 klo 20.00"
     },
     {
-      "id": "session-f836375a-2a3b-4f76-9f52-23700ed1d977",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "26.09.2024 klo 07.00",
-      "endtime": "26.09.2024 klo 12.00"
+      "id": "session-de66fd8d-0807-4e42-9f28-3bdaafb6537c",
+      "userId": "example@gmail.com",
+      "starttime": "26.09.2024 klo 15.00",
+      "endtime": "26.09.2024 klo 19.00"
     },
     {
-      "id": "session-e636ef5a-2280-45fa-a11d-57bce7ff1604",
-      "userId": "tomivais@student.uef.fi",
+      "id": "session-c8c7c28f-db0e-48c5-9665-81af1f3e585a",
+      "userId": "example@gmail.com",
       "starttime": "27.09.2024 klo 08.00",
-      "endtime": "27.09.2024 klo 14.00"
+      "endtime": "27.09.2024 klo 10.00"
     },
     {
-      "id": "session-e943c599-63c9-4ed0-b174-d59a320aac72",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "30.09.2024 klo 13.00",
-      "endtime": "30.09.2024 klo 18.00"
+      "id": "session-dde0fc91-f906-4cca-b8cd-1f6533a152a2",
+      "userId": "example@gmail.com",
+      "starttime": "30.09.2024 klo 18.00",
+      "endtime": "30.09.2024 klo 22.00"
     },
     {
-      "id": "session-c54bdea1-e7fc-4358-91f5-aa29a45dcf6a",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "01.10.2024 klo 12.00",
-      "endtime": "01.10.2024 klo 16.00"
+      "id": "session-af75c8aa-e792-4a51-947f-ffb00349ea3a",
+      "userId": "example@gmail.com",
+      "starttime": "01.10.2024 klo 16.00",
+      "endtime": "01.10.2024 klo 22.00"
     },
     {
-      "id": "session-a7ae5b86-3fe4-4cf5-8536-699c7a097d5e",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "02.10.2024 klo 09.00",
-      "endtime": "02.10.2024 klo 16.00"
+      "id": "session-852aad42-511d-4719-9b23-c9b0ced1a9f7",
+      "userId": "example@gmail.com",
+      "starttime": "02.10.2024 klo 18.00",
+      "endtime": "02.10.2024 klo 22.00"
     },
     {
-      "id": "session-5659d004-9bd1-43a8-8f05-3a52da369510",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "03.10.2024 klo 12.00",
-      "endtime": "03.10.2024 klo 18.00"
+      "id": "session-8da3ca2d-e357-4270-8ac4-9824d74c11ba",
+      "userId": "example@gmail.com",
+      "starttime": "03.10.2024 klo 16.00",
+      "endtime": "03.10.2024 klo 22.00"
     },
     {
-      "id": "session-eea28ee5-0397-4450-9aa1-a37b5f642695",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "04.10.2024 klo 13.00",
-      "endtime": "04.10.2024 klo 20.00"
+      "id": "session-32e71e0f-8b1b-4a0c-b26f-f3732250719e",
+      "userId": "example@gmail.com",
+      "starttime": "04.10.2024 klo 10.00",
+      "endtime": "04.10.2024 klo 22.00"
     },
     {
-      "id": "session-dc185052-8000-4db7-859e-f3926de1b0f8",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "07.10.2024 klo 10.00",
-      "endtime": "07.10.2024 klo 16.00"
+      "id": "session-def70f9e-745e-46df-be4c-bf71a39ce6c7",
+      "userId": "example@gmail.com",
+      "starttime": "07.10.2024 klo 08.00",
+      "endtime": "07.10.2024 klo 20.00"
     },
     {
-      "id": "session-b1387ec8-f05a-4cda-af60-9eab05f6a8ef",
-      "userId": "tomivais@student.uef.fi",
+      "id": "session-6e1a2bbe-fe36-4e93-85d9-cb6c816b5ade",
+      "userId": "example@gmail.com",
       "starttime": "08.10.2024 klo 14.00",
-      "endtime": "08.10.2024 klo 18.00"
+      "endtime": "08.10.2024 klo 17.00"
     },
     {
-      "id": "session-d5b6939c-6051-4eda-b99d-66e24facd9b0",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "09.10.2024 klo 07.00",
-      "endtime": "09.10.2024 klo 17.00"
+      "id": "session-d6eab7fd-6d52-49c4-b121-cf90048b3453",
+      "userId": "example@gmail.com",
+      "starttime": "09.10.2024 klo 12.00",
+      "endtime": "09.10.2024 klo 22.00"
     },
     {
-      "id": "session-1fbc1c8f-d7ff-49ad-9faf-e74145161350",
-      "userId": "tomivais@student.uef.fi",
+      "id": "session-de17d680-25a5-454a-887c-f9f372e67cf7",
+      "userId": "example@gmail.com",
       "starttime": "10.10.2024 klo 08.00",
-      "endtime": "10.10.2024 klo 12.00"
+      "endtime": "10.10.2024 klo 15.00"
     },
     {
-      "id": "session-b92f87e8-36d8-40c6-9367-46e751e19b1b",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "11.10.2024 klo 08.00",
-      "endtime": "11.10.2024 klo 16.00"
+      "id": "session-3f56426b-54e5-4d49-a5ee-944b37078b1b",
+      "userId": "example@gmail.com",
+      "starttime": "11.10.2024 klo 16.00",
+      "endtime": "11.10.2024 klo 22.00"
     },
     {
-      "id": "session-5d02f804-5b2d-4e2f-8f6d-de913f0c860f",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "14.10.2024 klo 13.00",
-      "endtime": "14.10.2024 klo 18.00"
+      "id": "session-4a75089f-0fe5-4bbe-8caf-c6ddd65998c0",
+      "userId": "example@gmail.com",
+      "starttime": "14.10.2024 klo 09.00",
+      "endtime": "14.10.2024 klo 22.00"
     },
     {
-      "id": "session-975a153e-34c3-4a55-8116-a61e8f494541",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "15.10.2024 klo 07.00",
-      "endtime": "15.10.2024 klo 16.00"
+      "id": "session-9af8c1f8-a39b-4615-a652-fac1072d9043",
+      "userId": "example@gmail.com",
+      "starttime": "15.10.2024 klo 10.00",
+      "endtime": "15.10.2024 klo 17.00"
     },
     {
-      "id": "session-da33dc09-02d8-4c46-a1b7-b48daff97ebf",
-      "userId": "tomivais@student.uef.fi",
+      "id": "session-82feb2af-9dbb-4fa6-9a2d-39d6a50330c7",
+      "userId": "example@gmail.com",
       "starttime": "16.10.2024 klo 13.00",
-      "endtime": "16.10.2024 klo 18.00"
+      "endtime": "16.10.2024 klo 17.00"
     },
     {
-      "id": "session-2541083e-9a99-499d-8489-032cadba8cc7",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "17.10.2024 klo 09.00",
-      "endtime": "17.10.2024 klo 17.00"
+      "id": "session-31807aa3-a5d8-4777-b2ce-813f165421be",
+      "userId": "example@gmail.com",
+      "starttime": "17.10.2024 klo 16.00",
+      "endtime": "17.10.2024 klo 20.00"
     },
     {
-      "id": "session-d6789a8f-9aef-4202-b38f-2418c5dcaf1d",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "18.10.2024 klo 13.00",
+      "id": "session-795192f5-4052-4267-864f-7e30be077461",
+      "userId": "example@gmail.com",
+      "starttime": "18.10.2024 klo 16.00",
       "endtime": "18.10.2024 klo 18.00"
     },
     {
-      "id": "session-f31c029e-cd1a-4fbb-a373-4e186f3779c3",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "21.10.2024 klo 07.00",
-      "endtime": "21.10.2024 klo 15.00"
+      "id": "session-0547b59d-cb4a-450d-a8f4-c7a3e688c196",
+      "userId": "example@gmail.com",
+      "starttime": "21.10.2024 klo 15.00",
+      "endtime": "21.10.2024 klo 16.00"
     },
     {
-      "id": "session-31701309-4ee0-440e-8688-6ce355dd4323",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "22.10.2024 klo 11.00",
+      "id": "session-2bbe8d9b-dfe2-401c-85c3-8aa89e8f5b7c",
+      "userId": "example@gmail.com",
+      "starttime": "22.10.2024 klo 13.00",
       "endtime": "22.10.2024 klo 19.00"
     },
     {
-      "id": "session-ac35b07b-aef9-4a4e-b97f-5d75d4fde224",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "23.10.2024 klo 14.00",
-      "endtime": "23.10.2024 klo 20.00"
+      "id": "session-2bdc123f-04e7-4c6c-b650-2a6256986d3f",
+      "userId": "example@gmail.com",
+      "starttime": "23.10.2024 klo 08.00",
+      "endtime": "23.10.2024 klo 18.00"
     },
     {
-      "id": "session-17880ea5-025b-4797-b304-f11a0875321b",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "24.10.2024 klo 16.00",
-      "endtime": "24.10.2024 klo 20.00"
+      "id": "session-78e5affe-ff45-4c0f-bb90-db920b341d8b",
+      "userId": "example@gmail.com",
+      "starttime": "24.10.2024 klo 13.00",
+      "endtime": "24.10.2024 klo 22.00"
     },
     {
-      "id": "session-95e1305c-a977-44b4-a603-746dcc0bdb44",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "25.10.2024 klo 13.00",
-      "endtime": "25.10.2024 klo 20.00"
+      "id": "session-62dd8bc5-111e-4a9e-a6b9-bb1f33460b7a",
+      "userId": "example@gmail.com",
+      "starttime": "25.10.2024 klo 20.00",
+      "endtime": "25.10.2024 klo 21.00"
     },
     {
-      "id": "session-0a2778c6-5912-4299-8e36-2f0c6fe88e95",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "28.10.2024 klo 13.00",
-      "endtime": "28.10.2024 klo 19.00"
+      "id": "session-4ebc959b-91eb-472b-a0cf-0b014bbc87a0",
+      "userId": "example@gmail.com",
+      "starttime": "28.10.2024 klo 15.00",
+      "endtime": "28.10.2024 klo 17.00"
     },
     {
-      "id": "session-f93faf8d-35c0-4902-92f6-8275b22a8ff1",
-      "userId": "tomivais@student.uef.fi",
+      "id": "session-0bd101f2-4a37-4713-8897-30d879e5c8cf",
+      "userId": "example@gmail.com",
       "starttime": "29.10.2024 klo 12.00",
-      "endtime": "29.10.2024 klo 19.00"
+      "endtime": "29.10.2024 klo 16.00"
     },
     {
-      "id": "session-d1d98151-08a1-421e-beb0-992cd7af56e5",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "30.10.2024 klo 14.00",
-      "endtime": "30.10.2024 klo 20.00"
+      "id": "session-7b9c91af-66ad-455a-bef5-eff8a3b997cd",
+      "userId": "example@gmail.com",
+      "starttime": "30.10.2024 klo 21.00",
+      "endtime": "30.10.2024 klo 22.00"
     },
     {
-      "id": "session-1730392328094-476879",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "31.10.2024 klo 18.32",
-      "endtime": "31.10.2024 klo 18.32"
-    },
-    {
-      "id": "session-1730392337791-198303",
-      "userId": "tomivais@student.uef.fi",
-      "starttime": "31.10.2024 klo 18.32"
+      "id": "session-17db2ea1-61f7-4fa1-a549-75bf92a3ef6f",
+      "userId": "example@gmail.com",
+      "starttime": "31.10.2024 klo 20.00",
+      "endtime": "31.10.2024 klo 21.00"
     }
+   
   ]
 }

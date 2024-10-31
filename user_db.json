@@ -1,15 +1,9 @@
 {
   "users": [
     {
-      "id": "tomppa.vaisanen02@gmail.com",
-      "Firstname": "Tomi",
-      "Lastname": "Väisänen",
-      "Password": "1234"
-    },
-    {
-      "id": "tomivais@student.uef.fi",
-      "Firstname": "Tomi",
-      "Lastname": "Väisänen",
+      "id": "example@gmail.com",
+      "Firstname": "example",
+      "Lastname": "example",
       "Password": "1234"
     }
   ]

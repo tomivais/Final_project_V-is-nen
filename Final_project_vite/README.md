@@ -2,9 +2,10 @@
 
 
 
-  You need to have a json server to run it. You need to start a server for the project e.g.: json-server --watch db_studies.json --port 3000, json-server --watch user_db.json --port 3001.  In addition to this, you need to start the application on any port. 
+  You need to have a json server to run it. You need to start a server for the project: 
+  json-server --watch db_studies.json --port 3000, json-server --watch user_db.json --port 3001.  In addition to this, you need to start the application on any port. You would just need to download: npm install. Then run the application: npm run dev.
 
-  You would just need to download: npm install. Then run the application: npm run dev.
+  You can log in: example@gmail.com password:1234.
 
   // db_studiess: Generated studing data with Colap
 
