@@ -11,12 +11,6 @@
       "Firstname": "Tomi",
       "Lastname": "Väisänen",
       "Password": "1234"
-    },
-    {
-      "id": "nea@gmail.com",
-      "Firstname": "Nea",
-      "Lastname": "Väisänen",
-      "Password": "1234"
     }
   ]
 }

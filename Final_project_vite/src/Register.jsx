@@ -29,11 +29,28 @@ const Register = () => {
 
         return isproceed;
     }
-    const handlesubmit = (e) => {
+
+   
+
+    const handlesubmit = async (e) => {
         e.preventDefault();
         let regobj = { id: Email, Firstname, Lastname, Password };
-        if (IsValidate()) {
 
+        try {
+            const response = await fetch(`http://localhost:3001/users?id=${Email}`);
+            const data = await response.json();
+    
+            if (data.length > 0) {
+                toast.error('Email already has a profile.');
+                return;
+            }
+        } catch (error) {
+            console.error("Virhe tarkistuksessa: ", error);
+            toast.error('Virhe tarkistuksessa: ' + error.message);
+            return;
+        }
+
+        if (IsValidate()) {
             fetch("http://localhost:3001/users", {
                 method: "POST",
                 headers: { 'Content-Type': 'application/json' },
@@ -59,11 +76,10 @@ const Register = () => {
     };
 
     return (
-        <div className="container">
+        <div className="main-content" style={{ minHeight: '70vh', padding: '2rem 0' }}> {/* Lisätään padding ja minHeight */}
             <ToastContainer />
-            <div className="row justify-content-center">
-                <div className="col-lg-6">
-                    <form onSubmit={handlesubmit}>
+            <div className="d-flex justify-content-around">
+            <form onSubmit={handlesubmit}>
                         <Card style={{ width: '100%' }}>
                             <Card.Body>
                                 <Card.Title>User Registration</Card.Title>
@@ -103,7 +119,6 @@ const Register = () => {
                         </Card>
                     </form>
                 </div>
-            </div>
         </div>
 
     );

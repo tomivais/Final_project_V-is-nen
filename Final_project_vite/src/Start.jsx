@@ -1,6 +1,15 @@
+
 const Start = async (userId, sessionId) => {
-    const starttime = new Date(Date.now() + 2 * 60 * 60 * 1000);
-    console.log("Aikaleima luotu: ", starttime.toISOString());
+    const makestarttime = new Date(Date.now());
+    console.log("Aikaleima luotu: ", makestarttime.toISOString());
+
+    const starttime = makestarttime.toLocaleString('fi-FI', {
+        day: '2-digit',
+        month: '2-digit',
+        year: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+    });
 
     try {
         const response = await fetch("http://localhost:3000/studies", {

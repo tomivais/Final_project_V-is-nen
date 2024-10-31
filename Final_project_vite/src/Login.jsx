@@ -4,8 +4,6 @@ import { Link, useNavigate } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'react-toastify/dist/ReactToastify.css';
 import Card from 'react-bootstrap/Card';
-import './Login.css'
-import CreateSessionId from './Create_sesson.jsx'; // Tuo createSessionId
 
 const Login = () => {
     const [email, emailUpdate] = useState('');
@@ -33,10 +31,10 @@ const Login = () => {
                 } else {
                     if (resp.Password === password) {
                         toast.success('Succes');
-                        const sessionId = CreateSessionId();
+                        // const sessionId = createSessionId();
 
                         sessionStorage.setItem('email', email);
-                        sessionStorage.setItem('sessionId', sessionId);
+                        // sessionStorage.setItem('sessionId', sessionId);
 
                         usenavigate('/');
                     } else {
@@ -63,13 +61,12 @@ const Login = () => {
     }
 
     return (
-        <div className="container">
+        <div className="main-content" style={{ minHeight: '70vh', padding: '2rem 0' }}> {/* Lisätään padding ja minHeight */}
             <ToastContainer />
-            <div className="row justify-content-center">
-                <div className="col-lg-12">
+            <div className="d-flex justify-content-around">
                     <form onSubmit={proceedLogin}>
-                    <Card style={{ width: '30rem', margin: '0 auto' }}>  {/* Leveys kasvatettu */}
-                    <Card.Body>
+                        <Card style={{ width: '100%' }}>
+                            <Card.Body>
                                 <Card.Title>User Login</Card.Title>
                                 <div className="card-body">
                                     <div className="col-lg-12">
@@ -95,7 +92,6 @@ const Login = () => {
                     </form>
                 </div>
             </div>
-        </div>
     );
 }
 export default Login;

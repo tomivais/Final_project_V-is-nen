@@ -52,34 +52,9 @@
 
   }
 
-  .custom-navbar{
-    background-color: black;
-  }
-
- 
-
-  .custom-footer{
-    background-color: black;
-    color: white;
-
-  }
-
   .white-text a {
     color: white;
 }
 
-.white-text .navbar-brand:hover {
-    color: white;
-    background-color: gray; /* Muuttaa taustavärin tummanharmaaksi hover-tilassa */
 
-}
 
-.custom-nav-link {      
-    color: white;
-    text-decoration: none;
-}
-
-.custom-nav-link:hover {
-    background-color: gray; /* Muuttaa taustavärin tummanharmaaksi hover-tilassa */
-    text-decoration: underline; /* Lisää alleviivauksen hover-tilassa */
-}
