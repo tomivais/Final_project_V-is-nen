@@ -6,13 +6,16 @@
 
   You would just need to download: npm install. Then run the application: npm run dev.
 
-  // db_studiess: Generated studies data with gemini
+  // db_studiess: Generated studing data with Colap
 
   //user_db include Registered user
 
-  //The return also includes pause functions off comment when the project time resources are overflowed. 
+  //The return also includes pause functions off comment when the project time resources are overflowed.
+  In addition, the original goal was to add a datepicker to the table view page. However, this is my first web application and I am proud of the result.   
 
- The work has been done with the help of openAI and Copilot. 
+  
+
+ The work has been done with the help of OpenAI and Copilot. User management and logging out in the middle of a study session require a lot of time to implement. The youtube videos has been used to help with the implementation of user management: https://www.youtube.com/watch?v=QapLfhqU8wY,  https://www.youtube.com/watch?v=5OV-TYyJEnw&t=0s. 
 
 
 
