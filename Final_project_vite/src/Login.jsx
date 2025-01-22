@@ -17,25 +17,18 @@ const Login = () => {
     }, [])
 
 
-
-
     const proceedLogin = (e) => {
         e.preventDefault();
         if (validate()) {
             fetch("http://localhost:3001/users/" + email).then((res) => {
                 return res.json();
             }).then((resp) => {
-                //  console.log(resp);
                 if (Object.keys(resp).length === 0) {
-                    toast.error('Please valid email');
+                    toast.error('Please get valid email');
                 } else {
                     if (resp.Password === password) {
                         toast.success('Succes');
-                        // const sessionId = createSessionId();
-
                         sessionStorage.setItem('email', email);
-                        // sessionStorage.setItem('sessionId', sessionId);
-
                         usenavigate('/');
                     } else {
                         toast.error('Incorrect password');

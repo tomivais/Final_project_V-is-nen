@@ -128,7 +128,7 @@ const Home = () => {
 
     return (
         <>
-            <NavigationBar /> {/* Lisää NavigationBar-komponentti */}
+            <NavigationBar /> {/* Lisätään NavigationBar-komponentti */}
             <div className="main-content" style={{ minHeight: '70vh', padding: '2rem 0' }}> {/* Lisätään padding ja minHeight */}
                 <div className="d-flex justify-content-around">
                     <Card style={{ width: '100%' }}>
@@ -159,7 +159,7 @@ const Home = () => {
                     </Card>
                 </div>
             </div >
-            <Footer /> {/* Lisää NavigationBar-komponentti */}
+            <Footer /> {/* Lisätään footer-komponentti */}
         </>
     );
 };
