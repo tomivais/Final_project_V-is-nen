@@ -5,24 +5,6 @@
       "Firstname": "example",
       "Lastname": "example",
       "Password": "1234"
-    },
-    {
-      "id": "tomivais@student.uef.fi",
-      "Firstname": "Tomi",
-      "Lastname": "Vaisanen",
-      "Password": "1234"
-    },
-    {
-      "id": "nea@gmail.com",
-      "Firstname": "Nea",
-      "Lastname": "Väisänen",
-      "Password": "1234"
-    },
-    {
-      "id": "marjo@gmail.com",
-      "Firstname": "Marjo",
-      "Lastname": "Väisänen",
-      "Password": "1234"
     }
   ]
 }
